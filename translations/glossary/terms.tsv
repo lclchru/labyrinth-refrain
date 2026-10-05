@@ -1,0 +1,110 @@
+English	Русский	Пояснение
+Refrain	Рефрен	город и лабиринт
+Tanis	Танис	мир/лабиринт
+Umbra	Умбра	лабиринт, «мир трёх башен»
+Campanula / Astrum / Melm / Fhenom / Amadeus / Rose Tempus / Ornit / Cardia	Кампанула / Аструм / Мельм / Феном / Амадей / Роза Темпус / Орнит / Кардия	лабиринты
+Tractatus de Monstrum	Tractatus de Monstrum	не переводится, латынь
+Tractie	Тракти	прозвище книги, дала Лука; форма из characters.py, она главнее
+Tractie Skill	Умение Тракти	не склоняется
+род Тракти	мужской	«Тракти вернулся»; книга в оригинале «it», но по-русски нужен род
+душа в книге	женский	«заблудшая душа»: это игрок, а не Тракти
+Dusk Witch	Ведьма сумрака	титул Дрони
+Great Witch	Великая ведьма	-
+Witch Brigade	Ведьмина бригада	-
+Brigade	бригада	отряд игрока целиком
+Manania	манания	бессмертное существо-кукла, не склоняется во мн. ч. как «манании»
+Three Towers of Umbra	Три башни Умбры	-
+Black Page	Чёрная страница	предмет-ключ
+Vorpal Sword / Vorpal Cane	Вострый меч / Вострый посох	отсылка к «Бармаглоту»
+Coven	ковен	боевая группа кукол
+Soul Pact	Договор души	предмет, задающий ковен
+puppet soldier	кукла-солдат	мн. ч. куклы-солдаты
+Puppet Body	Кукольное тело	-
+Soul Vial	Флакон души	-
+Soul Clarity	Чистота души	-
+Soul Transfer	Переселение души	-
+Attacker / Supporter	Атакующий / Поддержка	роли в ковене
+Coven Formation / Brigade Formation	Строй ковена / Состав бригады	-
+Reinforcement	Подкрепление	ресурс и меню
+Reinforcement Skill	Умение подкрепления	-
+Reinforce Defense	Укрепить оборону	-
+Wall Breaker	Стенолом	-
+donum	донум	магия
+Donum Echo	Эхо донума	-
+Donum Tips	Наконечники донума	-
+Resonance	Резонанс	-
+Critical Gore	Критическое увечье	отрыв частей тела
+Karma	карма	-
+Facet	грань	«Facet/Appearance» - Грань/Внешность
+Nature / Nature Shift	натура / Смена натуры	-
+Moon stance / stance	лунная стойка / стойка	-
+Witch Petition	Прошение ведьмы	меню
+Puppet Workbench	Кукольный верстак	-
+Alchemy Pot	Алхимический котёл	-
+Market	Лавка	-
+Record Memories	Запись воспоминаний	-
+mana / silver	мана / серебро	валюты
+Loot	добыча	в названиях умений - «Жадность до добычи I/II»
+Key Item / Valuable / Relic / Artifact	Ключевой предмет / Ценность / Реликвия / Артефакт	категории
+Rank	ранг	-
+Well of Khalaza	Колодец Халазы
+Mud Exit	Грязевой выход
+antechamber	преддверие
+Witch's Bell	Ведьмин колокольчик
+Witch's Protection	Защита ведьмы
+Fog Veil	Туманная завеса
+Flame's Whistle	Огненный свисток
+Soul Vial / Soul Vials	Флакон души / Флаконы душ
+Soul Pact / Soul Pacts	Договор души / Договоры душ
+rapport	взаимопонимание
+Stat Growth	Рост показателей
+View Status	Показатели (не «статус»: не путать со статус-эффектами)
+Apprentice Requests / Apprentice Note	Просьбы учениц / Заметка ученицы
+Townsfolk Request	Просьба горожан
+Stockpile	Накопление
+flavor text	описание
+Lucky Number	Счастливое число
+Aster Knight	Рыцарь астры
+Shinobushi	Синобуси
+Theatrical Star	Звезда сцены
+Marginal Maze	Пограничный лабиринт
+Peer Fortress	Пэр-крепость
+Mad Raptor	Безумный хищник
+Gothic Coppelia	Готическая Коппелия
+Demon Reaper	Демон-жнец
+Van / Vanguard	Пер / авангард
+Rear / Rearguard	Тыл / арьергард
+Req:	Треб:
+All-out Attack	Общая атака
+Withdrawal	Отход
+Pincer	Клещи
+Advance	Наступление
+Decoy	Приманка
+Convoy	Обоз
+Donum Attack / Donum Defense	Донум-атака / Донум-защита
+Abyss	Бездна
+Stench	Смрад
+Poison / Paralysis / Sleep / Confusion / Silence	Яд / Паралич / Сон / Смятение / Немота
+Res. Up / Recovery	Сопр. вверх / Восстановление
+HP	ОЗ	очки здоровья
+DP	ОД	очки донума
+DMP	СД	сила донума (Donum Power), 2 знака из 3 - запас есть
+ATK	АТК	атака
+DEF	ЗЩТ	защита
+MAG	МАГ	магия
+SPD	СКР	скорость
+LUC	УДЧ	удача
+STR	СИЛ	сила
+AGI	ЛВК	ловкость
+CRT	КРТ	крит
+HIT	ТОЧ	точность
+AVD	УКЛ	уклонение
+DEX	ЛОВ	ловкость рук (ЛВК занято под AGI)
+CON	ТЛС	телосложение
+CHM	ОБЯ	обаяние
+RF	ПК	Reinforcement, подкрепление
+CG	КУ	Critical Gore, критическое увечье
+ACT Speed	СКР действия	скорость хода
+Lv	Ур	уровень
+EXP	ОП	очки опыта
+Max HP	Макс. ОЗ	не длиннее исходного

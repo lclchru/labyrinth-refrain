@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ttf binary
+*.zlib binary
+assets/images/**/*.png filter=lfs diff=lfs merge=lfs -text

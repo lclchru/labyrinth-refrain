@@ -1,0 +1,21 @@
+Labyrinth of Refrain — русский перевод
+
+Windows: пакет ресурсов в dinput8.dll. Switch: заготовка, порт не реализован.
+Для сборки нужны Python 3.10+, Rust и MSVC.
+
+git lfs pull
+rustup target add i686-pc-windows-msvc
+python -m pip install .
+./platforms/windows/build.ps1 -Media "D:\Games\Refrain\Media\D3D11\Majo"
+./platforms/windows/install.ps1 -Game "D:\Games\Refrain"
+
+Перед установкой закройте игру. Установщик сохраняет резервную копию.
+Перевод — translations/ru.json, субтитры — translations/subtitles.toml.
+После правок запустите сборку снова. Результат — dist/.
+
+Инструменты можно запускать отдельно:
+python tools/patches.py apply --original "D:\Games\Refrain\Media\D3D11\Majo" --patch patches/windows --output build/refrain-ru --replace
+python tools/translate.py
+
+PNG для просмотра — assets/images (Git LFS); сборка использует patches/windows.
+Словари перевода — translations/glossary.

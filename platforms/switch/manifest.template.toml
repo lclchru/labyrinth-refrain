@@ -1,0 +1,11 @@
+platform = "switch"
+status = "scaffold"
+title_id = ""
+game_version = ""
+translation = "../../translations/ru.json"
+resource_root = ""
+text_encoding = ""
+resource_mapping = []
+tested = false
+
+[font_mapping]
