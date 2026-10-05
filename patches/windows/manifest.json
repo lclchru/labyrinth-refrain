@@ -9274,22 +9274,22 @@
     {
       "file": "texture_en/model/ui/Base_Menu_Sortie_windowparts.dds.phyre",
       "original_sha256": "5baba90e13ea59a8071fe09b2184f0ef4d67af88083bb168f3af1e645c6ed16d",
-      "translated_sha256": "c0d14f55a60c9e5c5530e34d888464396499967d1198ba8f52e27c0bf9b0d093",
+      "translated_sha256": "d8e40e32f56bd2536c87259ce3c9e18410c510014c68c8ae412ea835302ad443",
       "original_size": 1575422,
       "translated_size": 1575422,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_Sortie_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "a7397af88181ae310bff3ab6885adc660172971b76bbb022e77c6701b3990bec"
+      "delta_sha256": "c89805bb72689b2263d53939e3b1e9748e2cc030f728140291e5e9f59542d787"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_Sortie_windowparts_4k.dds.phyre",
       "original_sha256": "08d48fb2d0df0769a12467863e9fbd343049a4faf237de6b66944ea8824be695",
-      "translated_sha256": "9953a3f1ae40469c0c8e66506b2473c29a2f495b41791de9e47eba2abbed0872",
+      "translated_sha256": "96d409a796df57ec1b9641561a60d57cb20f7cd74e80ae1f8c2cb4406cd2ea67",
       "original_size": 6294022,
       "translated_size": 6294022,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_Sortie_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "8e0e82e5160ed9845eeee4ed2313f754e8fd521b417fdd965ed9c4dc0556abdb"
+      "delta_sha256": "36935affac7acfd9e4024045212b97aedaa3c8c1afaf82dac0c42eef11e7f456"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_windowparts.dds.phyre",
@@ -9574,22 +9574,22 @@
     {
       "file": "texture_en/model/ui/Battle_weaponswitch_select.dds.phyre",
       "original_sha256": "b8af067783c1041fd4e9bb7d72198ccc35d9b75b92747d14e7e15026752b57dc",
-      "translated_sha256": "7e3f43aefa7b32e4cb31db87431378b24eedf0bf1ca22d32ec1b409e87841af2",
+      "translated_sha256": "992c8f95175f9bd994328ee6704308c8c190bff8b922c69ecbe4867447ea409d",
       "original_size": 526846,
       "translated_size": 526846,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Battle_weaponswitch_select.dds.phyre.xor.zlib",
-      "delta_sha256": "20a18ffe0ae2d48252ba965e4b0b4dbf0f4434d398d1e99bd5f3a38197d1c353"
+      "delta_sha256": "1dc0c1a17487806228500336d8cc1a340dbf4965a79830a5eeac282594ffe14d"
     },
     {
       "file": "texture_en/model/ui/Battle_weaponswitch_select_4k.dds.phyre",
       "original_sha256": "9ad9c99ecc773f2c16b96b385f851e913872850eed67d56b9ad2443b72218430",
-      "translated_sha256": "f85da6c8c3eb06e84ec76ffdcbab90cc8af1d9cc9fa04f5fa1943e1287fb0655",
+      "translated_sha256": "f27bba19af8441aed6c11ee6225a13868ed49fbb8e1782f47098558c48586567",
       "original_size": 2099710,
       "translated_size": 2099710,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Battle_weaponswitch_select_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "ccb0d68a9c6d2884b31aa541c12fd4622c78a598f594756ff2c67978576e1b51"
+      "delta_sha256": "e29df3aeaf271c227a039c83019bbe3b1e2129ab7b68cd71e83c88efb469a181"
     },
     {
       "file": "texture_en/model/ui/Battle_windowParts.dds.phyre",
@@ -9654,22 +9654,22 @@
     {
       "file": "texture_en/model/ui/Camp_Charatatus_windowparts.dds.phyre",
       "original_sha256": "bc37c1febf8c7ea8c413bbb10653299c4956ee243abf59f759d503dd278bb018",
-      "translated_sha256": "f0401f330b8664d0a117bb8c9b86d723a9f23602dc020f146bbd054d70a1c223",
+      "translated_sha256": "a2fcb857e0ccd8a0d49869f190e79c99d062818d685274f06b7ad0a2fc340f43",
       "original_size": 5769726,
       "translated_size": 5769726,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Charatatus_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "069253614f57c6af1edd1e89589800001eddfe3a5608bbdc4f37eded8f154990"
+      "delta_sha256": "453ca653f71cf4c81cb8a358ba5fe118aa8f2a5e7dd6aa92bd263a2dd8c06b78"
     },
     {
       "file": "texture_en/model/ui/Camp_Charatatus_windowparts_4k.dds.phyre",
       "original_sha256": "d7b151b336f853645805f42baa3b16cbf0f25f0f53284cffe6f557b9178e1a77",
-      "translated_sha256": "5d6f73ed4a9967403fe5d3fbd1d481d726a5a54e5a949b6bf171676bd7440bae",
+      "translated_sha256": "a81dd641143d2a789e54dd60c0e1c5a10aaca9d2707d5d94d22831116517e3cb",
       "original_size": 23071230,
       "translated_size": 23071230,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Charatatus_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "145947f9d3c5273778a44abf076dc67c3f5f0b437b328378211203b3fbf2e075"
+      "delta_sha256": "9b9f12bcb9908f66096c300d47b90b1b1a2c1f2be6cf7fffb5884ab6f30bfe87"
     },
     {
       "file": "texture_en/model/ui/Camp_donum_windowparts.dds.phyre",
@@ -10024,22 +10024,22 @@
     {
       "file": "texture_en/model/ui/dugeon_result_parts.dds.phyre",
       "original_sha256": "b0c3e27046e74384309aebf558c9be152f825fd9e3c311ca56d67f59a0c38cc8",
-      "translated_sha256": "3ca327979bd43da0d7a1620a23b84127838dfc94b76f1cdcfc9050178266b447",
+      "translated_sha256": "6eae85b54b01a0f51ea013204619637e2c8caef1a78414c305f630549be6706c",
       "original_size": 1968630,
       "translated_size": 1968630,
       "added_metadata": false,
       "delta": "texture_en/model/ui/dugeon_result_parts.dds.phyre.xor.zlib",
-      "delta_sha256": "099e5701a7a68608624f35e7017b7e8f9d22d274fb969b2d15e32d45114d73d7"
+      "delta_sha256": "fd06e74aea024e85b66ab82ccb5cbe4f5478b5526f4ba0cdafc016b6e1adee20"
     },
     {
       "file": "texture_en/model/ui/dugeon_result_parts_4k.dds.phyre",
       "original_sha256": "120f04ea8eb1eb20efb5a64382539b441e17efc68037ad5abda990144c0589c4",
-      "translated_sha256": "fb0147aef934d53aebbcc30b6b59043707366ce5e0432fe17ecc47c4463b35d2",
+      "translated_sha256": "0ecbb722a5a7d8f8e3236d8c8ab31322b0696ee6279ee457867dd52963e4cd8e",
       "original_size": 7866870,
       "translated_size": 7866870,
       "added_metadata": false,
       "delta": "texture_en/model/ui/dugeon_result_parts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "ace52b98bb584a8d1f45f81df4e38d5948cbc37046a016b7eef9da8b2d144784"
+      "delta_sha256": "0f29027ca7e0e1718ff89fcd4195f2381bfdbfbee8bc17fa840949fcd771790e"
     },
     {
       "file": "texture_en/model/ui/Equip_window_windowpars.dds.phyre",
