@@ -11024,62 +11024,62 @@
     {
       "file": "texture_en/model/ui/tutorial_05_1.dds.phyre",
       "original_sha256": "959a6c6820b55237448a0dafa16d89579c371d9f09a0b72d184d6f091c9fe8ea",
-      "translated_sha256": "698d7d148b21f4560dacfb1f8a99419f4ebe837340342f2e1bcd4b59c18f52eb",
+      "translated_sha256": "bd4124067b4430eae949e60b05941c71510cfcf7756e6407b81fb79d836550aa",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1.dds.phyre.xor.zlib",
-      "delta_sha256": "0b59634c1548f66125df19939cd69350e5e3d2edc3452f0862b04825e5f2980b"
+      "delta_sha256": "52d184a21f83b6d9ecc9d385994ba14dd934e9aa9df4ba6dd35dfc05e19e2365"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_4k.dds.phyre",
       "original_sha256": "e651ed1c1178b7b184aac075bdff679b546e57ee11bdfd49f5725ad42489484f",
-      "translated_sha256": "bb391e7c6c925052d1f28531953bdfe2ebd157609b41bbb83fe91ebfc6b88bcb",
+      "translated_sha256": "04cd3a70af77690a933908305e59d11ed05d907f5ff33fb6a69faada35fff46b",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "bb8acf04ae0dc9cf0a807f5a2de7bc5dd88d35c7c5821390313ed4dd324d7193"
+      "delta_sha256": "93c5985e9f48f7c060f97c82661d22784c17210c6f26505245ae29298baa56ee"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_key.dds.phyre",
       "original_sha256": "68e88e5c27f14147d38e162a00f776524e4e47a8ea76f7bdfbbc73b07c7016db",
-      "translated_sha256": "c83feb5d225fb1de9ef7b4c25e03cfa21c121c0fc6ae663d793a744d931018d7",
+      "translated_sha256": "0ee02c16b5232e868cea8c31f7fbdfed66519db45b8f9df2790d31f27df17ba2",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "7218847f08d2af5f97d7785a1ecfac6d55ae2741e0c8024472723ec050975144"
+      "delta_sha256": "a7664d662e6892521d26f7c151b4e8ac570d41e37086372f1fbd796d21f12311"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_key_4k.dds.phyre",
       "original_sha256": "3721fa1a6a39391880eaa7c5e155b940164100deddf7d4f0135c00e373661ec1",
-      "translated_sha256": "988cd8711c37093a06e9c22759d6eeffd7559bcccc0d6402aea87cf2c3137827",
+      "translated_sha256": "71c76ef59082ab78b8514ac8edc6552c7f9b2aba31c94b62290ee3b7e668b06c",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "43b30ac380bdefdad3b4267dee537391cfac1a4ae3a4d608c5ee40b4525189d5"
+      "delta_sha256": "d2b05ff806ab532faf51d80efda699932ee36129fb95395b4e80dfa56911e647"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_ps.dds.phyre",
       "original_sha256": "0d7402abf25934c246b8bbfd96eab2144db8c49f3eb70b068d89e2bac0fb2462",
-      "translated_sha256": "d54ff9ebfee1f83237a2077f73811b0d322d79cd898c151f869b0d1d5bc860b4",
+      "translated_sha256": "f1a00d21e99b281dc2695e643f7fc0368ab64d82d6a9286aef2b9eb71bcaa98d",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "dd0079372a24a29dd269b49bdb631c140dfef137fec40d3648b48f7dac617ca2"
+      "delta_sha256": "98202d344e606eaaf5c9cf0dc1f846fa9d14071e899a0ce66b4399ece014a945"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_ps_4k.dds.phyre",
       "original_sha256": "5edb7f842be0acd4644539e34320504abe1037118f5a7ba5aad07b49cc75ca1f",
-      "translated_sha256": "6d4d59751cae5562c1501a11e09eba1116e539db9127cb967be3215b8a57182d",
+      "translated_sha256": "da113740328a6a89deb61179fa59a42da26c3e0481fc1275991aca3de116cb70",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "6318633c3d718f46feb5662333f059e04d3dd75962059e5104fd63771d659bd8"
+      "delta_sha256": "87f5205094ccd05f1f7f93a66121c4cdd958b6c0e6ed2e26557e883530fa36ae"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2.dds.phyre",
