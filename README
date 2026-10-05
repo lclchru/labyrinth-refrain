@@ -19,3 +19,6 @@ python tools/translate.py
 
 PNG для просмотра — assets/images (Git LFS); сборка использует patches/windows.
 Словари перевода — translations/glossary.
+
+Код и инструменты — MIT (LICENSE). Лицензия не распространяется на материалы игры,
+тексты перевода и графические ресурсы. Шрифты — SIL OFL 1.1; лицензии рядом с файлами.
