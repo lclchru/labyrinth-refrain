@@ -10604,1142 +10604,1142 @@
     {
       "file": "texture_en/model/ui/tutorial_01_1.dds.phyre",
       "original_sha256": "7ec730c7e40a7236b4c44a066fdc597a93c48edf481fe2c57f549448729abee2",
-      "translated_sha256": "ed7f4212c16da78fced337fadd1bfa1476dcf33db0fb7ece3eb06427331ba379",
+      "translated_sha256": "e2e65e90140b5f265f1c8c0842329c36f8864af19057fe874e4117f40af8980a",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1.dds.phyre.xor.zlib",
-      "delta_sha256": "34e7b31b16e68388e9fc756a51fd4dc78e9d785a16efcb68ddb8d6bf21094c78"
+      "delta_sha256": "4550310626d9fa4300aa031ad2ecc6f75cc2c787e08c505fe3ff39320bd43810"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_1_4k.dds.phyre",
       "original_sha256": "df22c5dca58d65fe60906cb4925fb579dee9bd9de05b38b1d7938fec9e402189",
-      "translated_sha256": "8c56b090026cf382e87b072bcc41d266f8060533b313bab60cc8de714649da81",
+      "translated_sha256": "c9d1a4e1968c28af430368ac524a07cdafa9f6078e471392894fccc39d435ff9",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "783932cdd30a3ed8d9cd4624c97e24d8d719a774ee548c9627b30128c02db736"
+      "delta_sha256": "f679341af9e4ef23917f22b70034e37a8bacf32d19384e54ded8d4900823bd0c"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_1_key.dds.phyre",
       "original_sha256": "75213b787dc45856c040d4ab99fa15171671d3e0570393d6bffa56454dd5f8c8",
-      "translated_sha256": "f24c121c7f4a4a79c8e0c9538190a3bbf9170918eeda553b4dc1dce7f6d57cb7",
+      "translated_sha256": "8dcff8ad14276eb9d6589dc70965b19881bd64d2904391dc8a7a66f483e1e598",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "1ca5167da2eb438efa92987072a18ff882a1a732cc15bc04f43573883d80f3be"
+      "delta_sha256": "514e3f931fc8d01db559c8d5b1f2895e39eff08b1b462efd36e6344117094e09"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_1_key_4k.dds.phyre",
       "original_sha256": "2bb54fe9547b5e7efcc2ad5ffceb2a54d12cbd1e4660fccb30e926768b68d468",
-      "translated_sha256": "d27fd6655d2f692398b5b53fca8baa69c682eb4de6e9ecb2191c7bcd26dc1b64",
+      "translated_sha256": "4874423048330614b44008edbf380439bdc7c2ad67ebb75752ee859ec29d869c",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "1ecb59a0fe38f797620d31cf24659db7462530f47f8d321252dfcfe50a8baf8f"
+      "delta_sha256": "c87cf882f29a0c3113730569cb23e2c66c3da20454c1e0271cc0e9a6e06289a2"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_1_ps.dds.phyre",
       "original_sha256": "bd69dca32ab1b2c580be4f815c90e660d1857cb016793ee6f902cb5e2c9d635a",
-      "translated_sha256": "a633f30e084a2e22e7fe2f815bab410423d31bf6e5500db26522e3785b9a9a08",
+      "translated_sha256": "6b4840638c0cdbbad84fe7020f1eb2b143ff588fb9e1997693c161024a3d9ca8",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "e9e098a612fbe1291b24e544cb5ea2a8358764460424a7db59660ed458d4281e"
+      "delta_sha256": "c619e9016b045d38f4db395c37d1931ee19f0287a4d7601979ac4e5f8f7c7e5d"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_1_ps_4k.dds.phyre",
       "original_sha256": "60eff99bca6fb2ca6801eb5b92abd1e782bc9f21fd19224237b3abccdb6e10ff",
-      "translated_sha256": "f3bc34eb42c58fd527f4959b17706bfa29690afe7274169fca9a07bcb0cb3ee9",
+      "translated_sha256": "f4c5c7f10d1c6f9b26cbbc2dc8de6d1a072a73ce6db435bc3df9ff79172d2cf0",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "518eb2057c180e062f4a4af10d603f0bbde355917c88944f42e8d37d6d3c5192"
+      "delta_sha256": "9370a2419ccd0531dae1bd60ed8180ca47ac8b4b0151f0b118023912adc153b8"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2.dds.phyre",
       "original_sha256": "819aace9343faceed875e8c68701006fa12d78cb04d6bfde5e09af153222b9bc",
-      "translated_sha256": "e22d4f840808b90f42092c2a41d8589777c8b9ce72280d7522dd334d72ba476d",
+      "translated_sha256": "a937760bbbd036b213a4b28537acbca7b53e651d37be0df02f5519589d7bf5c6",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2.dds.phyre.xor.zlib",
-      "delta_sha256": "9d9e2dc147135c1f5f2b5a34f44a6fc0f169ae5fe93bc877954f44ed705ab71a"
+      "delta_sha256": "621c69afe08b781771dec124508d0a7386003783d92be630255e6013eef78ab1"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2_4k.dds.phyre",
       "original_sha256": "d64f5151238a62f545be72b2d39d725341299b720d9f1717aeb9ed4d1b598685",
-      "translated_sha256": "a50e04c546ef0ddcf50f88841270572df97e83700ac44e1634b265cc1b975f03",
+      "translated_sha256": "32a7dc47a65bec09b9c64809361c046e2fa561837a14229bb22c365b3c308be3",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "4fcb518bc51b101d056334192bf30ef85bdca209be901ec0a22b27da20da7be2"
+      "delta_sha256": "1fdaed939d5acf28f1ab7d2d5e439c39ba6a1db77a2525cc80443b5398c74aed"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2_key.dds.phyre",
       "original_sha256": "0cd52a083c0bf969e7afb5af25901e7a3ccdeea0daf225e37cfa04b900c097d0",
-      "translated_sha256": "95196eb4f19aa1c1617db2e945180ce262e7e0df147a9049a3535119a8c76c07",
+      "translated_sha256": "f55d2af9bdbf43e93951e2e961ad3488cf05fef2e81af79b6dbada1f7f5145bd",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "c645a7a2e7de0d55efe71020d487641341648e46b6ebf867536206b0cbce0eb3"
+      "delta_sha256": "11d416af5b65a32a106ee984781192ae5b539f7337d19fa5bc36b7adea517ba1"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2_key_4k.dds.phyre",
       "original_sha256": "dc7d7268e5d6e05fe13c89ce87753143d5625037602c80c70d0a4705d9b296e7",
-      "translated_sha256": "d8d1e5d96ef6fd6b89f0372b57b7c2cf30b4aa86f1c782d5ad3ce53d2b81dd3d",
+      "translated_sha256": "e69577ae2fd74954aeb3420f242d7b66483aa1e39fecd36c9ebc6668ea54b681",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "cd91ac46620f6ebccc0c85c1316373eb0b16ce3e63f3c6f573b2a2557f06b3ed"
+      "delta_sha256": "d461de6225013ff6a1cf20b621887be2f461145c4c72b9845df59878a90333a1"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2_ps.dds.phyre",
       "original_sha256": "c0e3721a3d25443d8745dd4def638f53581c5c1a92947e7e326768eee5659b45",
-      "translated_sha256": "ead60b1b0034fc15a8e9df9a41c32e0649a3d0f4e98864d856bd17fc06689375",
+      "translated_sha256": "27180db0764dcb4adfbbf65f071c47ced3e2ef09e56c641b3988ed1262c83f4b",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "74d2e5bcfd19f6f40c67f15c519d2860210fcfd405ce9319235f9ef4d164f6c0"
+      "delta_sha256": "116be62760a5590d8dfe5fdcf70dac6136bcf02a3ee73950241529536f8910a2"
     },
     {
       "file": "texture_en/model/ui/tutorial_01_2_ps_4k.dds.phyre",
       "original_sha256": "68d23bec671b18c03e8ecf0b324eb1b3eedf7b46e2e5c902a5fc5d2858f9fa1e",
-      "translated_sha256": "98e2834c80bb3c89a52e040211e29489d6909d3993d42bd651dcacf865bfeff6",
+      "translated_sha256": "80f5332c7ce9ebad4bb1f5816ec8914156676bbad8902b3497a40a1f29c9ae62",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_01_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "a66a9694dbbca851655414c9339ec26dc1ab4af9805c95652c80ddef42443ecb"
+      "delta_sha256": "3915b9094945d71d331f539e9899576111d8927498e43d79709ce9a069bae319"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1.dds.phyre",
       "original_sha256": "9f9b828ed01b04f2e2a36515f265787db0758a333a5a38a895e444d83375c6cb",
-      "translated_sha256": "857dbb6121754fe6ae0614e861bc0b3acf5f130723034d7a1ccfa0ea8c720458",
+      "translated_sha256": "d8aea308031edad7b289009b79ad2105c79f82622ad6c8065bf6e97ad20e4868",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1.dds.phyre.xor.zlib",
-      "delta_sha256": "f845d6ad2c54c70ac129aaff1e1aa11ebe3d78473617f730fe37cf1206755990"
+      "delta_sha256": "2486117fd49f26b6f38959887de2b24786435700a9624fdb49cc8ece1bfa5f8c"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1_4k.dds.phyre",
       "original_sha256": "35f91a0e3c5b299ef89ce04df02eb2251c4aada21ee49998e6486fe9b1cea739",
-      "translated_sha256": "d264bdc276656f6c87c386e12e3607b30ba4169121f64cd0e028f402291195bb",
+      "translated_sha256": "02fc18b5c2b42f5dfb501553957efc0f5ca167915255b58665b11826025b6e2f",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "cc43a24b8c845199837f7ae02c0233f973148a3dd8f99b2d795d4ccbe6d0e11b"
+      "delta_sha256": "4b2d9ad7da9ae68e4a1f0a52701471284d2f9f410d7fbb4bc88253e07d6f3af9"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1_key.dds.phyre",
       "original_sha256": "938ecd6fc4565a98daafe9c1cb5151ff1f4bc2878befbbf956ec24757a593cf9",
-      "translated_sha256": "4f418d20763aaa0c86d1a7c1cdb3e6fab069776d8cac98d880cb85653bae5f42",
+      "translated_sha256": "58e17da88f5cc84255561bee70747a322532921c9158cca2b35c525aaa5dea2a",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "8bb0a090d344f37af775c8aecf6f0f5a1265426e792bc12804813112d3abad3b"
+      "delta_sha256": "037bf4945c6d079f147d7fd6beb45e5edcb6867c62287f70d15b2aeff3912400"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1_key_4k.dds.phyre",
       "original_sha256": "7d8b7574db8c5606c2040f1cea2fc101d2f057e9609f4389bd8ccfa2585b2b6b",
-      "translated_sha256": "dd35975270930805e0e3df2be71e383d8e63fb21dfcd6e1fc32c6cceaf97ed14",
+      "translated_sha256": "7e7474a142cd561a82bc17d59841023ff2f68a9d6e7b1a077aeda122ae700555",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "39c387478a18b6c3196005e4fb6ac0ef75ba4e267b1a22a9f879cd9d40602b52"
+      "delta_sha256": "da1f352dc932f8c04080f65d4552f8451036c63ea1d73ecf6dfd548c5b3db739"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1_ps.dds.phyre",
       "original_sha256": "456b2f13da4b6dd9d345ea1467d455e2b084636f98810a108f1386cf2ace327a",
-      "translated_sha256": "82e4afe807e56aef4cf46befd4954b52231b75bbc3a611bfefc832f243e79824",
+      "translated_sha256": "e1804b56f3c8fc0eebcc37584d76374ec0b6c38ce65cccb9f212926a1affa8e1",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "e2d492277d1585ebabb0955687a4252cf5f73b40c071923fd4cb23a239dfdf83"
+      "delta_sha256": "971808ef9210e67c77aaa14a9fb084006682d64827486676ffa8bb2d387a78f9"
     },
     {
       "file": "texture_en/model/ui/tutorial_02_1_ps_4k.dds.phyre",
       "original_sha256": "5993b84d416bbd1c75cc916ade2b6944ab2673dc1876b4125c81fdff02a233e7",
-      "translated_sha256": "4ff6be14b3ec20e37405ea04c37095053d57a6462f6482ba94e03364030f4dde",
+      "translated_sha256": "fdc71776c6721653d46fb9782ab8e0f11101fbf888bca3ce683f27636bbc34ad",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_02_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "02cae514e12a8505deea9083d83a899a18beb4f158b72f8008dfec766344de06"
+      "delta_sha256": "689674661f712c63b81563de3842e8e86c99d43660c35041732a305de260e84f"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1.dds.phyre",
       "original_sha256": "979d14db280f231d1fde90a56ecfcfe703a4f5ee8c709d0545c7d35b88ddaef4",
-      "translated_sha256": "19c09f5a103f7e2404e77c53ba365efb03d73b0e048fba11632851d49267a583",
+      "translated_sha256": "5eb670a4ac237ef68f19f1a4340bab30f01a66982524317c2aabf139348e97b1",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1.dds.phyre.xor.zlib",
-      "delta_sha256": "be27070e81df384a42c6a9da973d8e26bae7aacd3a945e8aa5f6b0ad2ddd8e18"
+      "delta_sha256": "81c16db12640e6172bd8a9629e66d81292fbfb9c4aeedf60e96aa1093f35620a"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1_4k.dds.phyre",
       "original_sha256": "4bcd818776630fd2db1da319d6b03b569ad2b2bd2d47914361175eff8d5caf96",
-      "translated_sha256": "a079c6f2c8901c53beeb8c20ae56f3483c496938771431a03379e13a8186dddf",
+      "translated_sha256": "c4fd75e658f6914ff1c8b01119e304bed6158f0d316ce89b642a199c27a610c1",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "4990ff839e24bd3721c6b606bd44505bd84865c7d7a84635c90a6faccb3eb6b0"
+      "delta_sha256": "7ccd8bbfe20a8d8a61aa414bd3833dd9ac04752db60a6749947bf62e72d7dd8a"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1_key.dds.phyre",
       "original_sha256": "d7cc72b17848dd2446ed686fddd8f0b45142e3bd00ee6cc2c5cedd30750c40ee",
-      "translated_sha256": "2f5ed33c3780892e8cc5438a5917ba3c269132fd0c0f3bb4f34849f8af2cfbd6",
+      "translated_sha256": "28d5bf5b56f7060ce28e58c552a369852d4fbed5c33daea422c3191a24db8a15",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "dfe53d557291d48e2afce9197753b4ff007bcdc649d060655ca431c123befffd"
+      "delta_sha256": "1d223158a62ef0dad27c6b46989c34231c11a2f9c655ecb83feaafedcaec24f4"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1_key_4k.dds.phyre",
       "original_sha256": "6393f07fd63c20b8a0e38218fb2df26c893191a6ecc18b28b73b7878a8d62f3a",
-      "translated_sha256": "4bcf2a1aeb8a7a34077afb441ce37cbfe63945ac34dc89a377410957877308a7",
+      "translated_sha256": "e5198774a19cd8f796c74ef04bf49e4e2c2151dcd97e0c03a591f378eef42474",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "fc6f01ed87f4dfe56fc3baa5baf4f64a9cd7e9da15acf4a251a116451a59b3bc"
+      "delta_sha256": "656b5931375f18f49215de6bb45309759500ccbc38fd60a60d9c86efbab43959"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1_ps.dds.phyre",
       "original_sha256": "aeae10e9ddeae3e3e6fe01fde0f9f12e6b023c86c6694f9f009851d7e68e409d",
-      "translated_sha256": "6535cb323fd802a60299a3fa1d44abcf15c9f0d830c3043b9895067e9cb442a8",
+      "translated_sha256": "42a7a5324ab3581cf7b19da7ba55d768ff65bfa365f1dce62d2d80919c4ec9a0",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "a99f8b95b5fe7e3c2b045b0517a2f4e29617fe04610223c8e54c91155830c1f8"
+      "delta_sha256": "e6122e3dbcb8b5d54c606839639e93d73279a11bfa9c11d973b7204ef52c734e"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_1_ps_4k.dds.phyre",
       "original_sha256": "28b9d076d1c54d1a5637a656df542754b954c00f824e0809104b0953cf277cc3",
-      "translated_sha256": "5bc9f13719528ec3445721a4a55764b4d3473bf326d8b9ca0b7903327a630685",
+      "translated_sha256": "534c476d8566d4355f6dcb7ea7341fb5a2619fc5970ef9a729f04dc338961d9a",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "762b411e79ec84653fd31292bdf23ff59b1a38b1f20a2c361ce309f7813cbb18"
+      "delta_sha256": "41c2eec7293a99be04f197e81f0db941a7b039091f8606d8dafe4fb915b323b9"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2.dds.phyre",
       "original_sha256": "14dc9d982a0781914ac947b083173d9e68732a076663295a1dedbca873799d5a",
-      "translated_sha256": "6ef0d003ef85ce3bcffc8eed9adbeb817398b6b6383aec88c453867442ab3ba4",
+      "translated_sha256": "9c769d2d98d5e559d8615dad3eb28f1d469e25aafc5ad1837b319cdb71b27efa",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2.dds.phyre.xor.zlib",
-      "delta_sha256": "296199d6096492801eda704509305bfdc3a32f46018b12ebeae02921e2fb767b"
+      "delta_sha256": "a36af5e4c154ef71addc2878d34affe8dfd328c1b2cb259f1ea94400fed07be4"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2_4k.dds.phyre",
       "original_sha256": "2986ba83704a01f8613b57028a59ec2af7e64760d4561dd0469773093a669b50",
-      "translated_sha256": "722e79eaa84b8735f86d3549a8e8ccd8a02d95c44a86a44d61691ac3662d6fea",
+      "translated_sha256": "25bec2c57c0147f4e042d82a7281509570271152d00db3f68916073c3ddc797e",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "00b3e835cd32899daf4278404bc59772e445c25d518064a0b30e2b578ac6365c"
+      "delta_sha256": "e1c63b9a2d51e8e293a740d83f9a29cb49b2e40d05114bfcc0c0360214dddd0e"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2_key.dds.phyre",
       "original_sha256": "4be93da8563e1482713eca9534c1b147beda923d8302d8249512c55324d79dbe",
-      "translated_sha256": "e37a032978b1d42af421c726cdb4937c690a44009524f69e55e15f0b92cbc63d",
+      "translated_sha256": "ef452d4c17c4cf452b2599d1d9a952ef947dea865872f6391539a4398cadd4a3",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "3a66fdc451ecdfefd221546740ffc0f36ea185e4f30476104c5d84dcace09de1"
+      "delta_sha256": "bdf7b6cc86d2a020a7a9b8d5bb1790c1e579c7e0efb2789f46887bb7ed2aeaf3"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2_key_4k.dds.phyre",
       "original_sha256": "f11f42fe7ad6f3cdce8afa1c13440dd662c67237ce697de744affd7471daa26e",
-      "translated_sha256": "2b0322692cf7674e222683236ec37b636e57b6c688ecb0ac211e82e7c898a536",
+      "translated_sha256": "263ad9415e1a48d9a92cdcdfbf5e6309128cda3e785720f1f17aa352a5530136",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "00b3e835cd32899daf4278404bc59772e445c25d518064a0b30e2b578ac6365c"
+      "delta_sha256": "e1c63b9a2d51e8e293a740d83f9a29cb49b2e40d05114bfcc0c0360214dddd0e"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2_ps.dds.phyre",
       "original_sha256": "9ae81d8afe5744a90f5d61ceeddb77d418e630e8f596a3e72a0b774b41c7644d",
-      "translated_sha256": "2105e103c9a4beb2d6de5627eaf4b7cd2fcd83a71178dd2dbb379622f809084e",
+      "translated_sha256": "e9b029d3dd5e495872933553db8841c4b37bbd4075ee35c88770c2817498a654",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "fb347440c9d258b18100cb25adad3513950b7b387aefecc6ec6ce35a8287a2d9"
+      "delta_sha256": "0eec5efe492319d90f0b43b40c4739f0b6a2799525002c859e4e2ee0ba5c3f16"
     },
     {
       "file": "texture_en/model/ui/tutorial_03_2_ps_4k.dds.phyre",
       "original_sha256": "52ac89d389caaab6ba7adfd291f4817c64621d9876ecebf1500bdbe6f0f1ffa7",
-      "translated_sha256": "a33d29db3b5c1600d2acf416738151797be30f4e9301fbe057d8df27e20e09a1",
+      "translated_sha256": "dc007fa36b5ac5a3b17da398aadd3d5fa417c101ac7414b490b1a81fbd91b8c5",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_03_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "8e3dde0bf5e4607ee4f3eee9f244518e3514b300bc50b13f5a7e3845e7cf3976"
+      "delta_sha256": "bed81ec1b113f6771b7436ca265544fa77a5852ea320394e06e98614c5b7eeea"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1.dds.phyre",
       "original_sha256": "3a82f0a82a0346657c7e0f0c4ecc7d59b867d06b575c790e51558f8123ae93ab",
-      "translated_sha256": "1dac3055fc5ef15d2ffc4241c03fc93ae848194881fae10bbc0134793c6fdb20",
+      "translated_sha256": "2c8fbaa9feefdd32adbaf5058b037cfe40722147fd6dfc248f44589c0aa5530d",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1.dds.phyre.xor.zlib",
-      "delta_sha256": "fec24aaa942af9c2baf09704b3f63eb658739789a8a0b03b6aa9d88e04280675"
+      "delta_sha256": "6e57c2af068fe0fa70bb537930371fd52be0e8b03ab9b7a7a4581e9c1b7e885c"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1_4k.dds.phyre",
       "original_sha256": "6dad9f5a656315fb51d158649f0a5d2905316a906a31035a13fff2971d0c46e9",
-      "translated_sha256": "feeb4b4d4d6b641f8def612990b8570a62642a73bde2db57b11291b093b75449",
+      "translated_sha256": "d75701cb535b5f64da062cc9c6cfb54d789905e84481a8de6ce07fe8b7d622a6",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "20e056a43ac69081ccfdbd0f88703b954ec3a1f120e84a50cc8ffd1fe4b01fc6"
+      "delta_sha256": "b3c00fb1133c6504644710776fe1042d2b371d53f79b13cd77ccc31a8ee81d15"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1_key.dds.phyre",
       "original_sha256": "62bbef81b34c6c2c624cc7b59a4bb02da19e09e0137461525bef5acfc8c0e1d9",
-      "translated_sha256": "918d173ca5dd20f8cf13499196c36d759500c0dfb5d79a6cfc7fb65726cf4296",
+      "translated_sha256": "3f8fdee080194e62d154c440a75e1a36593c52b38774b2f4044383f700223494",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "95230c503b2b7f3693d62e22c59a5bb1c7d9f5d3851f72d41d9a667217556a1c"
+      "delta_sha256": "1a80d46256b794346a9660da17bfb848007d3e0cd0044b64986705c56cc7e356"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1_key_4k.dds.phyre",
       "original_sha256": "25a7b76533548bc0f26c65c32d9a0bfafdc61fe0301a674a6b89e305931bab06",
-      "translated_sha256": "a8e4be0d2397f76bd4ee8c2c3dee88455ec98feb370f1684db3054f387ffd2ba",
+      "translated_sha256": "022b05de0fa9e6e49b38e506e8cc76a85fc575f7a33b5d3d071f385b45d81b20",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "35d35a46c5a2d4235110975792ec4e98f80bda03fa5b93175b5f7b92f7c8f650"
+      "delta_sha256": "7bbd066c29d286fce1d7b870c049e3f12b0d9f9937e155e3c6b329d2441ad032"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1_ps.dds.phyre",
       "original_sha256": "8c53b104f45ffc33461e882acca804b8f612ef85ad515fd7c16c9b25e8701384",
-      "translated_sha256": "5ff5cc849e6cd133e0deef588130349142844a24d9bc1729c6a752a476ceb95b",
+      "translated_sha256": "0e0ef1de5011878e69eb51d3e3e4f598eb9657a61bb9a2d73140144db54a5b20",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "ef47c862e1eef42f9a065bb8ec840b0fb88f078dd2ea926aa458ea98e7208a01"
+      "delta_sha256": "2670beb0e0e4d38b160f034fef619a6ab488a1155c8842044d6c6643fe6c5da3"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_1_ps_4k.dds.phyre",
       "original_sha256": "5b36cbcd370cf05025f367702b7dbc5d14b9a11dffbad5234b38fbdbcf3fd5ac",
-      "translated_sha256": "698438bdfc42bb8db95bf2f00569672926f50d084ad64b788c879612cec18f91",
+      "translated_sha256": "ca70497c3ea432152990ed366afdb669b946e6798ba57c5b34251c6f071edbc3",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "42f2d61a52627a5c4e05bd7d5fb7701b3ed1ff57855633a595660a1117875164"
+      "delta_sha256": "042bbc915730229d8f55619fc6e9004057212ea82a55a084eb4ad8372f0ffec0"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2.dds.phyre",
       "original_sha256": "0bc2ebddc278437040bdfaf4b6dd4f6c6bfd035b1f7f8653ed349929d70b4df6",
-      "translated_sha256": "f2bf8a32fdbbaf1b08d508df71110d2ed24030e4ab96a2710e23e75f8ea5a517",
+      "translated_sha256": "cefece05dc91968523d6aa5a4d3cf348c5929ac3c01579a83915cd2d0b0ee1b6",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2.dds.phyre.xor.zlib",
-      "delta_sha256": "ccd9d064f274ae3c1de4107c7c431bf002cb6d6ae9a304e7727622d09f4cdda0"
+      "delta_sha256": "ebe8546a9d7cf52a6fcc750f810266323c23246763b69c2868695e37904a4597"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2_4k.dds.phyre",
       "original_sha256": "2583862517cc6ac48f187719cb0639aaffa0755eaf02838d35e68c5893730a20",
-      "translated_sha256": "95a1c471819b8746a4593eadaa2ad9a831ac61a2c7802445f3be4952ddeea32b",
+      "translated_sha256": "368fbe519458007adf3aab6cb86de72ba372eab82b8f53c625c53f149305ff60",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "d4c3453594b5263124fe48b33044f1d206338e6d1ba564b382298a019a147493"
+      "delta_sha256": "b2a47d38637de21a3093931e5f42c4dbc30d976fa87be8ebe5c151d54f5b58ba"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2_key.dds.phyre",
       "original_sha256": "9bc024a48f4ddffeb385198b53edbddf85fb3544aebfcd08c76734eaac24595e",
-      "translated_sha256": "ab06e012e0707ab8f8342297761317dc72b26ffa0c95524c4304e349ea2ca291",
+      "translated_sha256": "3f31619ddff1656efa0549bfdd57b1d5d35b6b0a65f0ef97aef936cd2e61be12",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "f2a0096732d0d3e64c83ff4c77f6f455a583482a0e87c42cd4e17dd4e2fffa12"
+      "delta_sha256": "fa1e9da393fda2d9cb49be2dd777b04810b4b898906082cc6edd295ecbace823"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2_key_4k.dds.phyre",
       "original_sha256": "52149b2ed67bf9bb9153adb9a360bd50265ba5dabee35bb28ee6d0cde118b078",
-      "translated_sha256": "0f64162d343180433a21eb6a69274f25c9c046a16ecefbd7a0b4a2186d6217f8",
+      "translated_sha256": "e2d3d9e8f3573ec752ec1c4d98b8deb51341b57851a57c3c51b4a8e4f180b24b",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "d4c3453594b5263124fe48b33044f1d206338e6d1ba564b382298a019a147493"
+      "delta_sha256": "b2a47d38637de21a3093931e5f42c4dbc30d976fa87be8ebe5c151d54f5b58ba"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2_ps.dds.phyre",
       "original_sha256": "b5e6701da666181de963fe3a0798acbb17926ca826abc113914e8f91790321fa",
-      "translated_sha256": "4da6db895081f99d9900c4bc9ad14f6e987b9bf6ac85b64aac868b362efaf598",
+      "translated_sha256": "34c7489b6cdb1abea2bfb45912ec44152b244720f708a8824106974dc4d8e191",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "8db880ec5ffbedf1e47de64bf62606b13c25a92a700ec11e548274deb668db64"
+      "delta_sha256": "94a5e5c3fb4ac9aeb608cca844c8682199c7bd7747544c1d2bd7a363fb08836a"
     },
     {
       "file": "texture_en/model/ui/tutorial_04_2_ps_4k.dds.phyre",
       "original_sha256": "674685fbb1c63330740460e7e1ae776249596576d4387fec676af93582d91ae9",
-      "translated_sha256": "254a594ef61553b6d3a3457569de7766e3a60f7751654120dbb1d4e249217c0b",
+      "translated_sha256": "cfe23905f2fea08759ffc93b636c3202203b9b6660a7a58b3d46b071ed5156ce",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_04_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "bdda9b5db05b4cdc07e09ed83f3b81aebf6f5c501d3786f6bea388b353236248"
+      "delta_sha256": "dafc9b19c1959713d97513bbab3c50995f465eb1d2a5d1ce9eb4cbb2bfa7ec39"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1.dds.phyre",
       "original_sha256": "959a6c6820b55237448a0dafa16d89579c371d9f09a0b72d184d6f091c9fe8ea",
-      "translated_sha256": "bd4124067b4430eae949e60b05941c71510cfcf7756e6407b81fb79d836550aa",
+      "translated_sha256": "a8f5d2e1bcedd4228b464ffadc88f36d6551264fa6f65918f77b183ee60926eb",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1.dds.phyre.xor.zlib",
-      "delta_sha256": "52d184a21f83b6d9ecc9d385994ba14dd934e9aa9df4ba6dd35dfc05e19e2365"
+      "delta_sha256": "40490d84d856875bde7a545c739ba9c03f03585e52cd182ba056cd4712926759"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_4k.dds.phyre",
       "original_sha256": "e651ed1c1178b7b184aac075bdff679b546e57ee11bdfd49f5725ad42489484f",
-      "translated_sha256": "04cd3a70af77690a933908305e59d11ed05d907f5ff33fb6a69faada35fff46b",
+      "translated_sha256": "39e1f9975800765c315f74b6710deb397b8f3d7768f57b267cb27152404be903",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "93c5985e9f48f7c060f97c82661d22784c17210c6f26505245ae29298baa56ee"
+      "delta_sha256": "375b6013f6a9b813834aaf2cc000dcc06739739cd1ae4a1eebc54349fa6cefec"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_key.dds.phyre",
       "original_sha256": "68e88e5c27f14147d38e162a00f776524e4e47a8ea76f7bdfbbc73b07c7016db",
-      "translated_sha256": "0ee02c16b5232e868cea8c31f7fbdfed66519db45b8f9df2790d31f27df17ba2",
+      "translated_sha256": "7e1d8e01679a661746ad1888a6d47197b290dc916448c359f8d2fb9f0dcd9f68",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "a7664d662e6892521d26f7c151b4e8ac570d41e37086372f1fbd796d21f12311"
+      "delta_sha256": "a2942e5eb84b6ac8fddcf2f8809d11e75f639ba18e864cbec0bff1c47eee9369"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_key_4k.dds.phyre",
       "original_sha256": "3721fa1a6a39391880eaa7c5e155b940164100deddf7d4f0135c00e373661ec1",
-      "translated_sha256": "71c76ef59082ab78b8514ac8edc6552c7f9b2aba31c94b62290ee3b7e668b06c",
+      "translated_sha256": "14b73c9b0ccd9636e052c11c9fe0085b7ae0b7662dd751935cb6677e2ec35c48",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "d2b05ff806ab532faf51d80efda699932ee36129fb95395b4e80dfa56911e647"
+      "delta_sha256": "960905f1d35c216122f756404428b9814a0a484d04c924b7432248261b9d58c5"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_ps.dds.phyre",
       "original_sha256": "0d7402abf25934c246b8bbfd96eab2144db8c49f3eb70b068d89e2bac0fb2462",
-      "translated_sha256": "f1a00d21e99b281dc2695e643f7fc0368ab64d82d6a9286aef2b9eb71bcaa98d",
+      "translated_sha256": "8fb6ce9188735559d8899cebf11a5660c925f01fd2ca73a344492a5f7b268dc3",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "98202d344e606eaaf5c9cf0dc1f846fa9d14071e899a0ce66b4399ece014a945"
+      "delta_sha256": "73d49da3f12a25d75bd86937596aa387c0a0b6fdf1d17c29e05b3ad2f15ab9b2"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_1_ps_4k.dds.phyre",
       "original_sha256": "5edb7f842be0acd4644539e34320504abe1037118f5a7ba5aad07b49cc75ca1f",
-      "translated_sha256": "da113740328a6a89deb61179fa59a42da26c3e0481fc1275991aca3de116cb70",
+      "translated_sha256": "09e256259d6b97ceef5f1dcc63d9551283323ef792fee7a48a99e5935718009f",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "87f5205094ccd05f1f7f93a66121c4cdd958b6c0e6ed2e26557e883530fa36ae"
+      "delta_sha256": "68e6ee7ddaa65af14e38a3bdcd7a5bf100095297dff4a000dbdbf2f5a658ab05"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2.dds.phyre",
       "original_sha256": "b188010655ea9f6f8af4d8f1940783f15d7a627e5180a7da91c22fb597ef38bb",
-      "translated_sha256": "2466850695b7cf36ebe5ed7b70ac6759389f5a6790946910ace2f4f01bcb6163",
+      "translated_sha256": "210a864356bc54092b2b505c109eb92af290fabd19183128c245a387a34651b1",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2.dds.phyre.xor.zlib",
-      "delta_sha256": "1651eb6677ab9db3d7640e0e3c11463185682f8b7838c79adf3f4928c3aa7915"
+      "delta_sha256": "eb093847a86703ab827845b9290747f912ca7ed5c834d2eddaa74e66b293cd58"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2_4k.dds.phyre",
       "original_sha256": "18cf7a41fff7e0c3cd89e7634a173df5a10cb666c5c8a5ac1424c1fd50b6d039",
-      "translated_sha256": "707f2067f14aaa5ee237246a206f3fb257b1bc3e62d4979047f8f24ae0e2c55b",
+      "translated_sha256": "d6aed5a701aa53f6507238b8a4c7fc21fbc2aa6707b5fa37c53b28a92926b0e8",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "f64cb53f93d16245d76b75f14f374edaec961214b7903a278ded8422f367cbd1"
+      "delta_sha256": "b5f25802c1a2835c53fe40c32c267e208baad42d13fb61214365ce5a6803f753"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2_key.dds.phyre",
       "original_sha256": "6eca0bf1771b477bb02acb68689646abb4d200e652d22218e937278c0606bc46",
-      "translated_sha256": "e8c6071dcd86006736aa3649061892823f83c7680f90de790c418c60af2a9447",
+      "translated_sha256": "1625583b267b97320d1f457a67b057fc7cd2c11dab467c0d49519e07727d86fe",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "512a6c088db3c9ef522d2e698c3531ccca9caccd252a81b4cf065326a79ad070"
+      "delta_sha256": "b6df5f61f7ddbe9497f35ce8f0569c8005235e73d700e6fa34033723add5ffbd"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2_key_4k.dds.phyre",
       "original_sha256": "94965f3479e694b2dbac298bcd1180f0cf0c7293d64bd4ccf3bcbf2053199fda",
-      "translated_sha256": "d1ceda9bca9252d35599f4f793f51c97c8f8d7128daca108deca4d75a7c32bcd",
+      "translated_sha256": "d3c5de6eec29a3277cdf2f3958c6dd099d4f7818ce4754d2ae0a21d9cadfce1b",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "6488681c757c7f14020b029437beb5b3cdc7519cc78fba266a631f8bdbef3aaa"
+      "delta_sha256": "715a66c2f7540188f2b41ad22d4771dfaa81318161924c15991290cad97eac57"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2_ps.dds.phyre",
       "original_sha256": "efc98ed22c16ed22c73687bf8a518bd53b2e1d39e717f926b74ff08820704644",
-      "translated_sha256": "d7b6c811084344001ab514c025a8544cb355bde88075b436d07b7fa5de755f15",
+      "translated_sha256": "6d7c1b6893332913c9e352a7b66618c9ba8a05140e9f292f5d3de734638ddf71",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "da425e4f4e4cece3e121e5923f11ccd813fe27d11c94d2f24437f5e02f32f10f"
+      "delta_sha256": "cbb07d22c87b5871d1905dc51c3389b6bddd38c29441e427d240bd5959011652"
     },
     {
       "file": "texture_en/model/ui/tutorial_05_2_ps_4k.dds.phyre",
       "original_sha256": "20b0629309cca83ee8ebd9a0d7677cbdd8cd5bf6bcd0ec5d1dc8a8967295819e",
-      "translated_sha256": "8249963d05f89a1fe13e1884b5bd120477b6fd787c7df96e5b646e21623b00a4",
+      "translated_sha256": "65465995a3a781c5774759f0efdc3bea3e65b7c81ee61b445484baf50fc7149f",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_05_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "af9c927f11da0be71d926ba15f00a8572a0924d189deaecb11aa65a1cd9a483e"
+      "delta_sha256": "7bebae658060d8baf552462fb73750ed2ef19b5a94844d27d65a8a42265f981a"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1.dds.phyre",
       "original_sha256": "3ed2bd9c4fe7ff87dbb7811725717b472014dc14181692ec8f36c0be66422821",
-      "translated_sha256": "8f429fe8d164bb16b80b7a7782b5c537c49b464c76e28b60342c9e45978ba4f9",
+      "translated_sha256": "2a6d1506eaa94d587a2010584cdaa76d58046ac9c302a4f5bcdcd1f8bf9cffed",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1.dds.phyre.xor.zlib",
-      "delta_sha256": "1bf930cb34c258e887edf86f9d087468477e53e10c3dbe4dedb5fb57bb5cc264"
+      "delta_sha256": "fcf1bf0794113668731542635ac420eddafad115ebe9f610d174276eb5aa43d7"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1_4k.dds.phyre",
       "original_sha256": "b019f661f600442102891ba4e1761c724a96a0ca1c21b80634574c21d47f136e",
-      "translated_sha256": "66c3e248597eeca5a4e12b4517b9006b325fb36c2f81353576a60b7a9861aa69",
+      "translated_sha256": "9c0d4044e569b12db5254c721010118ce1d6167be268db606dba0c8e7adc445b",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "47387e6b27d6ab086dd345a735358f3a4538edccfa26f0e171827503a11a7be7"
+      "delta_sha256": "6266c29b5064f8f4829cbbdb217e4a9686624183e8579906e884cc56a6a68371"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1_key.dds.phyre",
       "original_sha256": "766ddc6ae24e098a8273497e46b90b4d1713e11e093b49dc7b6d7a6fbf5e5760",
-      "translated_sha256": "f2e8ffa001aa1e05d25aa945b5b8c3978fdaf621dd90afc6e42b1c6d6651ebfe",
+      "translated_sha256": "e5445f1d69583a6fca03af1b06eeb5a4dde1d6a12e2af6645e68e93c16a91d43",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "b8ba885145e9f9d4ec89524adfc8187800c8a49cb5df59f8d784c343e9c8c8f0"
+      "delta_sha256": "3af5e2910f0459f45f9acf3101c26c6f12493b711051ec88c6935d17e9a1c186"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1_key_4k.dds.phyre",
       "original_sha256": "ce2e46fed3ddea40a6f04fff61f30b0ddb8e6473aa5f3029782d051da3ca45f1",
-      "translated_sha256": "698282d6d3bbe7420cf418ece90e0a16b45d68c97718649f80bf29a93b022452",
+      "translated_sha256": "973b3bb30b8ee0030a62d8951186e1885fda9d31a902285c94dd2763bf96d952",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "210560a1cc73701ef76ceb072f0ee3a454a5733792b247cc221e940eafecd3a8"
+      "delta_sha256": "c5d0c33da66c2d8a4e84a8295b7bd4405848b2e387b987991239f98b572993d2"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1_ps.dds.phyre",
       "original_sha256": "8d1411974a26e19aeb7b7939930aaa53cca0f4c5a020ca58af184940b1792f46",
-      "translated_sha256": "8a18961f69fa7fe18ab68570d44076a3fd23f2a5534d2705ebc510d232b1ac87",
+      "translated_sha256": "56e92e12ee0f055d893ebdc6be11e522198ea11d5ba4e9484c912f2133469cdd",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "c975ae7a85c44808e2d7161f7a6774fd57cb87f0536b90b70709986f05e8c7a8"
+      "delta_sha256": "27353a79cede41fcea1e3f2f063db55769b35a5619b0073bb1dfc3823feadc35"
     },
     {
       "file": "texture_en/model/ui/tutorial_06_1_ps_4k.dds.phyre",
       "original_sha256": "005fc5e5a9c976260a781c76f9344b9ff97786dad3a9af25d05f22bf0610e244",
-      "translated_sha256": "8dc8ed4c103ecc2f35cc53f544577c1994d4c85395a3912f3faf812c3834aa16",
+      "translated_sha256": "16acaa84102f130c821a390b81dd9f3e593bf84f115f50d37414832e00f00a42",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_06_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "c89f372d57558755e2908e928e073103a2b5d002443ea0599c7f36dcf794be74"
+      "delta_sha256": "1b27aded488ef2c610375359f92d62f2d299aac65fb3f3535af6f02fb6bfe258"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1.dds.phyre",
       "original_sha256": "fca8f40f0de4c0f44f9488410f1a171ed3b5b11e84b9f01de01b9b33a68f5b7b",
-      "translated_sha256": "ff1809bc2880720adc9508ca027c9b0f691c2b292ead15087477eacbf5933549",
+      "translated_sha256": "8e619e442a9d4aec5570e85b18b80d7e6ea3fbb3288bc6a6869bccad194c94f9",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1.dds.phyre.xor.zlib",
-      "delta_sha256": "dedbe36937e97645d7cf2af373399e6b4052f35ec6d536972815ed7763361ef9"
+      "delta_sha256": "2347929f00f43c79c9d6d802cca578b2ee0896b71410c37a6bd381128d7aa2a5"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1_4k.dds.phyre",
       "original_sha256": "b6704952134440c0259a282ab06d6791bc0876cd6e9af7a4388879e57781acbb",
-      "translated_sha256": "8b75284640a21832e8e6a442ca0fab719b636ecb6e1b1a597092f7ad069b3f9a",
+      "translated_sha256": "319e05d3170ac35a8ca271629ec47a70c125f9929c0f8bee239fbb26d457bfd9",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "4bf78fc75ed1e1114e936c4f00fb858b5ca4d4c46ac95fe92e9f84654362b93b"
+      "delta_sha256": "66e3360bc2d31f64eefe015434985f9beeb6fafa583b24eb710e7b146d4c4789"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1_key.dds.phyre",
       "original_sha256": "15cdfd78d2141a7656ac3da95c82ab2fa5761fad8e8b50f0fd34a32b228ff953",
-      "translated_sha256": "1afdb14726e3baa37993e0cd1bcc01cedd79ec3e1d7c2a012facac5cd0e9a339",
+      "translated_sha256": "4da1d2819c1b0f33a93b57827ce2494091686bd7231db41f4125aeca9e55aa5a",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "7c92e51bf7949a751f9a35f3c56d9aae91a8107ba8e4d51f55255cd0af196bfa"
+      "delta_sha256": "36c1be8c9dfa74e4bf58d5cc89d632aafb3e31d17574821f3b3dfe424097a115"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1_key_4k.dds.phyre",
       "original_sha256": "40a42fd7f665ba2b734380fe07bafb433db3ba0663c513202de73dfc4ca65d96",
-      "translated_sha256": "f82d5db9b24faf0c874a08e2bc59180ecb0f54ce5c6361f57123b8975fa4de4c",
+      "translated_sha256": "90b96b5171910d2acb3787dc7ed8411b8041646fbbbb9635f60ebc4e8b047b27",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "4bf78fc75ed1e1114e936c4f00fb858b5ca4d4c46ac95fe92e9f84654362b93b"
+      "delta_sha256": "66e3360bc2d31f64eefe015434985f9beeb6fafa583b24eb710e7b146d4c4789"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1_ps.dds.phyre",
       "original_sha256": "0d63a886614e7f7990ddcd6645bd641454f600ddf5ec672003bdc90bc8f37fe4",
-      "translated_sha256": "ceb3892956947606803e4d83e8ff948c6060f7c7d49b47e420567de7741ded2c",
+      "translated_sha256": "ba9bec1be28e95c4865764261e110521136b61e416db377d5e9a98c9592be160",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "8573ceda53e7e4cc5325c1ec8ac245a55080089d0b47fabe6a211e5185c1f38e"
+      "delta_sha256": "ac12fceea7b3e9804d27a21eecb2701d91f7de3fc820c9c1cdcbfa7f6d1ebf57"
     },
     {
       "file": "texture_en/model/ui/tutorial_07_1_ps_4k.dds.phyre",
       "original_sha256": "6719e137d5f88956d6d6e4702414e55c16f497ffa23d67fd0834cef71e277c75",
-      "translated_sha256": "a8d77676e9a1c53a23fd47cf0d45dc95c9bc88f0c7264ff33ae20ee7deb23804",
+      "translated_sha256": "ae6c81eff3bf55afe15597d8455efb44b520f6decaee0e4d79b3cc75360369c8",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_07_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "2175e7d3791042627ea8bc53624652c1f68d4f34aa8c445dbcb6ff95b92f0f43"
+      "delta_sha256": "d0c5898ee84f77d00b27d0b41bbe4d21a97f58a6c5382a83d73e52d8c87e689b"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1.dds.phyre",
       "original_sha256": "43c9bca55f843bdec554620d3d2b0ea82de3bde18421368c78e1f509b47df6e7",
-      "translated_sha256": "bb3d256864a82ed1e0309756d89eda04361ed480311fec364e7697fdb0a76ead",
+      "translated_sha256": "127b69983571cf3fbc73acec6aea04681a356f7dd87c9683ca79ce04c87972cb",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1.dds.phyre.xor.zlib",
-      "delta_sha256": "1d281b18bc103ad863d75ddbe1b3202f9767e39ce5397302e6aeb4f5bd05f9ce"
+      "delta_sha256": "625a697b87c79f298ebb621627122f94e5c6a9a58f52e05d32458f927f08d412"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1_4k.dds.phyre",
       "original_sha256": "c351f36c63f19b195044fb6267c0d2503e57bb16bb7228ebd4d34335c7dd6d53",
-      "translated_sha256": "d0556cac2801bda7767a730f52f2fe62e2aaf92adbc7e42983988d8c5d66a2f4",
+      "translated_sha256": "55159169ce33a859a99f0c1bbd73b76f4d054ff0647ec96358f734f826a03648",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "a03d58b218152d5c5d7915dcdedf06f1a2d54822b48d440f79aca49df8b07a51"
+      "delta_sha256": "7e2746403023eba52ba8a541c64eb99b2b234ea219be648cb5caa5cd75a41edb"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1_key.dds.phyre",
       "original_sha256": "397b9beda6759248add859038326cfdfff79796c72bfceab8043db70ed37c3ad",
-      "translated_sha256": "b0c68cced566ba243ae90ee9355ca483039b18da3d7368d2aef77819fa5ef3cc",
+      "translated_sha256": "400bd099a8c374558a50de7b55cf7bec91bd4ea86c3e0df0f0f07da521eb5948",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "1b9add59796809f13b3a966ebe0c7fed1990c0195978a37075f51fd1cc966f61"
+      "delta_sha256": "dac317befee7c8f677c7239dbbe4b66ea92b2c6fa687ddb5b96439d7feedb886"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1_key_4k.dds.phyre",
       "original_sha256": "5001c052740cf6020f327180cf91e5f509d44433e712f55efedb8bea0b1328d8",
-      "translated_sha256": "ff05d18435e32597e2e2dcd278f4d24c95ce2da73ad3a2701282c5ea7b0a4c16",
+      "translated_sha256": "f5c83f7e1a7e1efa81ead2b3a8ee9ba1e9d482e645bb49df7295d76638e4559b",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "89fc089521b187223da4c16316d66cb5cb87db54dabf270b89e6b833be2fec7c"
+      "delta_sha256": "bccfa7cba7c5509cb734949020298655cc3c703a6ea500f3a2eab724d231c041"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1_ps.dds.phyre",
       "original_sha256": "386d32dac667c1e0ea6886d05c4eee4ba3ee0672521aaab8d6bf5f888164aecc",
-      "translated_sha256": "dc1668c13e498308dd2120cbeaa86f96d1f9e689c06cec5635d240428d6f8bb1",
+      "translated_sha256": "52f7f2b28276687dab3ec6aa4a1eeb7767fb3f6eda892fc12a55473707edef03",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "b3b581c78499926a5d54cdef16d8481e845205be55cbaefc341704c3bce3097f"
+      "delta_sha256": "1af7d837ec40ad9eb192915a5e68ff1cb971b769fa3d7312098ce7e2c18efa15"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_1_ps_4k.dds.phyre",
       "original_sha256": "211b95e1ee6e37fb643353fec11a5e0414cfa3da97fb62cee71e85c10d820229",
-      "translated_sha256": "c9d106dae242bcfbb062220bc5ac7e31c31cca69e53d8e1e712030ffec77423d",
+      "translated_sha256": "a3fe4f92cb197ae7f0fa3c449a7e610d68fe80b0e4a0faa70b73ace3ab8112dc",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "288a059ef316983ba0d0b17cebf67d6194f10ef63153336aaa1b83a78ad0bc01"
+      "delta_sha256": "bb34c1982d9602614691afe0a0c196608133b25f587b35548d635434f5b7d4e6"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2.dds.phyre",
       "original_sha256": "8ee71bdf3a7d69c9942d58c327f8c0d24dd156ed71eac72ae7917e2a6f3f9a8b",
-      "translated_sha256": "c4c54a9291d120efd517edc76bfd5ab90926a575a3e4e032b5092e1dc5ccaa38",
+      "translated_sha256": "14baa96a7c6448016978bf8dcfb7ad32fc8308f84437755866db808b0dbdd78a",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2.dds.phyre.xor.zlib",
-      "delta_sha256": "69a2ba210b9c87ecceb594d226bb73a934e2db5f56fed07efd50223bf79821ca"
+      "delta_sha256": "bc9c7175dd841f4f558d35925e7c3c37970428baf09cdf40490ccd615e7723da"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2_4k.dds.phyre",
       "original_sha256": "4cec849365b51eab4f6d52186487e4fc699fdb5b7e829a1aa946f945a3dd6d23",
-      "translated_sha256": "b898489e3c8bde41ef6b88db91acba383c26f40f036293b595b9e22fdc63bdb5",
+      "translated_sha256": "6109b64c73b6446be6c52b4afecbf5589bfa9582904bae039556d46fe18eed8f",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "e38735ed03a31449886368f22984f4d9f0c73e597f276fafb9489fac66d81fd2"
+      "delta_sha256": "33be6404b84109dd35427fe6c36c8004d1e39b6e42140aa3f5f90c0532075e44"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2_key.dds.phyre",
       "original_sha256": "a06c0637b9bebf3cbcc22672804ec85d0a70d4b3165621f9b700e7fd8607d615",
-      "translated_sha256": "99998f0756cbe6d8c9712ed510d0a210ff08e53d81ea3ef14ea50bc77b2e6d55",
+      "translated_sha256": "e2f9bcddb148d9e1c9b3953f240a6f0e5d1317f53b55c7eef2583a392bafc10b",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "29c15ae438a1161e34d3b87c1fd72e0025373b59290eefe27a499eeb3e9c1517"
+      "delta_sha256": "79ca0b7473eafd5ecf2c5d99246fd0ad9de4d9fa4efe61b297d2df4c92620619"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2_key_4k.dds.phyre",
       "original_sha256": "7c9d681b6e3087991c251cd9323186471c980cfb4de9f3c2b711efe8392ff8c4",
-      "translated_sha256": "886bd8f57afd4378bc1e1ddd33358ce08ef00f61efc9e3c6d4887d5291857ee1",
+      "translated_sha256": "2929de1945e627024932ae47bba720a61800423542b29791aa7156804e5d4f27",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "e38735ed03a31449886368f22984f4d9f0c73e597f276fafb9489fac66d81fd2"
+      "delta_sha256": "33be6404b84109dd35427fe6c36c8004d1e39b6e42140aa3f5f90c0532075e44"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2_ps.dds.phyre",
       "original_sha256": "768ebebbcc31947a441e1adaa08139a8a17d70b1a66b93a7e27f52fc4ef2617b",
-      "translated_sha256": "246b9ee3f883fe8a6fb6856a63c6bd2d8aeef87390a7c0b19706a3105c80ab5c",
+      "translated_sha256": "736b02a31bab333b31dcba469d6d3ac1866543dfd839c2e072d1758ae217833f",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "81a5005e666a5efc73cc96dcac662884acae0b211fd9145e209c3f177f605224"
+      "delta_sha256": "791c7f7d17a61d9f6aecebb2d05163f6ec0c52154a0892ff392d94c3e4fb04de"
     },
     {
       "file": "texture_en/model/ui/tutorial_11_2_ps_4k.dds.phyre",
       "original_sha256": "1f0b9a74a3bff934f2334b556199e6b8d30ee512ca01adc623b663c382b91d3f",
-      "translated_sha256": "cf215f9fde4ff19d459a0715fadc2fc257b93ceaa47cbf4a1810be9705152508",
+      "translated_sha256": "cf9463d6c532d41aa1a1e4f78ce93b0a87262a38619d7af0e4293a305f7e5d96",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_11_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "fc193e7c1646ce2b65d5651e9544615a0dc96f8de07d0705e4ddb0e4ac4d5562"
+      "delta_sha256": "dc655a474f8ea4205d7326a9e6eba64720c2603e6446cbdb1db6062e0e2e3854"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1.dds.phyre",
       "original_sha256": "3c6de2349face6c62e9d391c5e34bdb57e2bb2052cd43183ae7909a6c652a081",
-      "translated_sha256": "541b43c87a9a2f85b3de2f9ff74107d71250400306f44dc95a29a97b73e2b604",
+      "translated_sha256": "07ed87d783d7931a50902dd4a462ca39d3119e97d568927450b1ab74c4b8844e",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1.dds.phyre.xor.zlib",
-      "delta_sha256": "2dcf594f7484c89f33a2a71affbf419457cab06620ad22cae2db61803b96fa0c"
+      "delta_sha256": "f82827209e67be1bf5f6790f9b6ed0c19a29133942d6df4f2897b6955889aab0"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1_4k.dds.phyre",
       "original_sha256": "5f4bfb564473d01cac11289bf8b3362622fc54254007d615c047a174783983d5",
-      "translated_sha256": "8299da07d54c42706df45751399c3ff23722515f74a30348b7b1ea0fa92f730a",
+      "translated_sha256": "b961f827cd6a8af8a955bea7753973e0b00266dfb4569e6d5ddbf3e15eb19422",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "629dbd0339f7152c18bebc6addabae9043511f7e5286b3143cf1829a80eb5842"
+      "delta_sha256": "e86f90e5ce0bce208271d5db40a4c65649f651c3d3a1031b76398fbcbffe2d05"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1_key.dds.phyre",
       "original_sha256": "dc9fbb6b5cf7edea8f9c9281f19f450b1a34023e0dafe3f995c2d1f24b1655d1",
-      "translated_sha256": "6e68ca1d99054337fa7680f6a832bd1f32235de6ccf99b7a90dbcb89b6705149",
+      "translated_sha256": "7cf692562506f571a58361d4293400a9601ae684292c1c7a282b3e4645c96684",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "e2c79dc139bb30a5da81ede12677dbf4c1e82c4631157ef3c6a2116665282811"
+      "delta_sha256": "9d88ebf3022554a8c30900b1bb9192245e6239c3af9d88998d171bf31e714107"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1_key_4k.dds.phyre",
       "original_sha256": "376f2af477e6356e7299d4610adc5ceb8a9b7437bcfce877b018d7be3661d767",
-      "translated_sha256": "0a08566569d0bfc13b61433796dc5c8ae1acee948216b4384706cce741a14cd6",
+      "translated_sha256": "f5bd055e82fb3b7bbedd917bcf24cf712e10fa5ed94aa4658cd0b972e852e043",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "629dbd0339f7152c18bebc6addabae9043511f7e5286b3143cf1829a80eb5842"
+      "delta_sha256": "e86f90e5ce0bce208271d5db40a4c65649f651c3d3a1031b76398fbcbffe2d05"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1_ps.dds.phyre",
       "original_sha256": "09cbef6157b60540e38986746db1bf6df1f3af70f3074b65bad0f96a9a36d76d",
-      "translated_sha256": "0104dfa4591a74cdf70d75de52835be5642b5af516bde139b4be023627908514",
+      "translated_sha256": "b1ffca18939f915dfad5bd0a2707603ea7390aaa912f658399bbb2b5a35bbe8b",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "3b0e0780bb4fcc3e41cfb85f27f9bc81f05bcc87d67d6113f51c5ea7367a4faa"
+      "delta_sha256": "c4ec75e63f35b7c767357ced3e3d75ac3cfbc3256e1e880d3aca856e5719c8c4"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_1_ps_4k.dds.phyre",
       "original_sha256": "cf5b0bbb3c17678a4dba6934d85f2337f855e5329daab9bb976b85d878bb3926",
-      "translated_sha256": "f7be2f21e7caf0b1d5916228754aa0c7117309362cb2bc4de2244691366fd542",
+      "translated_sha256": "d05d27a503434f141cac9bc145012aad1813e3299c1c4b060086799c32dc26e9",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "f1ec9b6208b7f06d915059c1e92e95b0a859a4dc872d5a54379daa69b68eea4f"
+      "delta_sha256": "99e7d9d00ca273997012e2f6727016a477e0f2a7922c01e52450af7d9070751e"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2.dds.phyre",
       "original_sha256": "2fad7cfa972cc43a2455dbda113fd26a7b2b5c76272a268d776800a3911e3d3f",
-      "translated_sha256": "a767f41027791f29dfa8964f53e03ffcaa5613d13bea0987f2356fbfeefb0d08",
+      "translated_sha256": "38bf5c38fc5677c91bd375f239561d962c3a2785beade5a1ff8c3da65b1dbf35",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2.dds.phyre.xor.zlib",
-      "delta_sha256": "44b6fe0c42383b781e1886380d2d0fa559d462963dfa0344d6c0058913029e31"
+      "delta_sha256": "3dd59b32c386347e8e8d9e4758354fef310638f431de021992720617f7eead00"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2_4k.dds.phyre",
       "original_sha256": "2ed4a20146f9fbe2e341796e02f79b402d9448081d1bec4c31260d1f72cc84d8",
-      "translated_sha256": "9520a0cc3da7d861118f6e376d166664ddeb941eda8e780561d746150fa7d862",
+      "translated_sha256": "a26e8875f73287a551dd6fa076dde6097e2e7859e8d9ac173e5e8f1e1c20bec5",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "ff3e6a7ec3cfb06e4f87f0d55f3713b02abe6ad5a3242a4c1473ba1c9467f5f7"
+      "delta_sha256": "b09cb0541f2c75bc3dd3ee79845cd1a697312d77e2d112a0baaa3ab8aebca349"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2_key.dds.phyre",
       "original_sha256": "40d563884749ba12894cdf709132f4c957724190df50b8a1bf40043471590496",
-      "translated_sha256": "6d1eea3468b446271b280cfb4b12187deeda781e920b9ab98d04528732441f01",
+      "translated_sha256": "823431185be0b3e0a510ff75c4589e047f29d1c4e14416153bf3fc764f955776",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "3b4ebdd60817f38744984e566e9e67e91e444b28bd3f8dbb7c89904243ad6762"
+      "delta_sha256": "bc4c1096ac2b3d048f76c846f0546c8df47bef45ef8549142145371b24d07fc3"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2_key_4k.dds.phyre",
       "original_sha256": "d201553f0840d55cb92e7a8ba0450da783c81d3d738e78fa18acd63ece474c81",
-      "translated_sha256": "693729e7ae2c84822acec5ed21c74359471603bd6dd37c88c1a7253261306d3b",
+      "translated_sha256": "a1bce5a618e8b8c9d0f80f511b28a158637ec43f8eddd81231760960f5f2dfd8",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "ff3e6a7ec3cfb06e4f87f0d55f3713b02abe6ad5a3242a4c1473ba1c9467f5f7"
+      "delta_sha256": "b09cb0541f2c75bc3dd3ee79845cd1a697312d77e2d112a0baaa3ab8aebca349"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2_ps.dds.phyre",
       "original_sha256": "cae688fbfde9d154580936b86a576c3b15ea2721f1604b9eab839c23ad1ba8a6",
-      "translated_sha256": "26a0714d40c3e426e9ab7aeff033950c10cf87e61b8b73697638107c908744c7",
+      "translated_sha256": "bd5fa1f4d48869903ae0e0b0900c0d87c67c865789df599c42565f3abd09892d",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "28fdfd3ba133407d8b979ac9777f0c58dd73dd611c5f185bf29794710048a0db"
+      "delta_sha256": "0d8274bfd652df4f77ba5013367c34e50b1f521bf26e2e551e98860aa392c8ed"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_2_ps_4k.dds.phyre",
       "original_sha256": "457a163c2d2bec873db0c7dc63345ca5caaf2aca9b524e26e964314f39bd06e5",
-      "translated_sha256": "05b984d1f294557286a871559fe2b12258edac3a368007fd8049862eaa2be9b4",
+      "translated_sha256": "1c5026c4e903c24a6f2a48981c1aff081ab4942579bfcefe1970932420e2eaae",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "32ce18dd47dc9356c52265e16c4c0afd6f9b1e0b71f0994e89530314a1ef855a"
+      "delta_sha256": "dba1452d9db55094eb9bc54d8354c91e53e1a159172fa7e83cbb5cd9afe26306"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3.dds.phyre",
       "original_sha256": "a5e2e7a19e4114b1b04908ea51749c17f40353c838b4fd1aac9b24cc18aa3a78",
-      "translated_sha256": "34ffc303360ae72bfd53e008eed94e90ed6f93a99714065cfdba217ee9026514",
+      "translated_sha256": "97c309cf69eacb9e9e7f56987377d938ec568773279ee025c1b814c0aa07c58b",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3.dds.phyre.xor.zlib",
-      "delta_sha256": "9a4a34076589972573032dd31f6a2d9e6766a8e56995ea9c445880d6d6d866b3"
+      "delta_sha256": "72f4b4fff4432f6ab05e08d4912c4f4d48c3f8a7f9b8d7b4899a706e5bdd5fe8"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3_4k.dds.phyre",
       "original_sha256": "79ca166d25c178ed6119a9bd6a3f56db9b68d521183cc07501cdaa6a060d0974",
-      "translated_sha256": "d773ef4e08ebd58f984ce2a5727be8da013c9a5a5fdfc1fd81854ddcead74395",
+      "translated_sha256": "b0023485f21dd34c364dcef29b7550e81476ada47ac48cc28c93c157320fd9c9",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "80554ccd5d48d6195ab269814b7d8609a47e4e3fdc58d8f086257ebcee1bad73"
+      "delta_sha256": "0628ec5a573f6d30bee8f19a185db5b825a634766d056fae60892c61e5c85461"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3_key.dds.phyre",
       "original_sha256": "07c05e751dbbda921c0fe1467a08842a58ecd16ce3b5755c7befe5e7d4de6b10",
-      "translated_sha256": "c9010f5aeaff00687ceee09febec074348975428e4aef073d5fb75dde29cebbf",
+      "translated_sha256": "6dfafa02e6486dd868a5ec2b8875febeab9f511a2a11e43d83e4a5562019b76d",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3_key.dds.phyre.xor.zlib",
-      "delta_sha256": "f333631de486011ea052e98c8009784e2c0712065781ff4cff8ed36e3b9b9246"
+      "delta_sha256": "a9a430d0c141c0f3a04ac375cfc7c695fd0a2453d24ddd4829e02255130b7c8a"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3_key_4k.dds.phyre",
       "original_sha256": "9cea90e674fc162284ba8d572c460549566712110eca0f4554b9b0a7b687798a",
-      "translated_sha256": "92548681fae0e4639cdbbe10454c379c8126b930ecb77cf07e1e51a6321b8ee8",
+      "translated_sha256": "6c2273957de8312e83d3ce2e66521cda008e56430acd50902313f26e9d77c59f",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "80554ccd5d48d6195ab269814b7d8609a47e4e3fdc58d8f086257ebcee1bad73"
+      "delta_sha256": "0628ec5a573f6d30bee8f19a185db5b825a634766d056fae60892c61e5c85461"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3_ps.dds.phyre",
       "original_sha256": "13060a1b8d14d98f9cbf50e5702311aa3da048e64326c4a3d13cccff5e5aeaca",
-      "translated_sha256": "b851c974e1cb7018d691e7930a0db4ef52047ad230dca74115cbfb6e9514e579",
+      "translated_sha256": "2072572162d056f4ff2422257c03bc16a0c51d501e7bfd35fc8b707498851a83",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "3fa8ad6f24673605cf3008ccec26e01e440b8c4ed394667f4645749e20ae4bf3"
+      "delta_sha256": "e5b59834778d22b667cd053db42ec94f2d4827ecbfffc68d7a4f1604ca3210d6"
     },
     {
       "file": "texture_en/model/ui/tutorial_12_3_ps_4k.dds.phyre",
       "original_sha256": "91854a3badca9e793b529f4eaa7153c00bb16018070743c8d8d915c95f7b7d63",
-      "translated_sha256": "5264638d0c82d42d078d059c0699835bd9fa08fdf642a8387b4688e58774b9e0",
+      "translated_sha256": "4c58ff4d5bfe450275641186109e62d3ea08dd5cdfc7bc6e5cc60831c2a7522c",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_12_3_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "890239ffaddd20544d5097391a1c35785283395653f3b21d9183b0bdd6ca7963"
+      "delta_sha256": "8a6e15087fe9c4ceefe0d21b9ad885d6ed5590da2ce804278cfb3cb2cdb32bd6"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1.dds.phyre",
       "original_sha256": "f6421dbe0ee7165887caddf6bf6009c85d114fa4a7da556875c71cd55a8d6618",
-      "translated_sha256": "b6416c3df952ec375f4f737ec912dbd19eed037f02f34ead0ac0a3fe529bef7d",
+      "translated_sha256": "1adaada929ca7145d18053de8bdae33e8b2538fb4686f43582fc97dcd7bfab20",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1.dds.phyre.xor.zlib",
-      "delta_sha256": "a9a8677ada787ef29f22ce2605eed1d45deaf21bfc129d9e22df06483d9bedba"
+      "delta_sha256": "c3b325be70eaf8eeb58c8631b03c154c45c3c95f317a53a01b6270395864db83"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1_4k.dds.phyre",
       "original_sha256": "d58fbb9803da90aa3402ca0cffd6cac719f27d63222703b0ef3a7ca2dd418b2b",
-      "translated_sha256": "45cf61befedd793b2d64bdf6d79861d7faa87a44928be7fe0a4d52d2c6068636",
+      "translated_sha256": "4511bed738f6633a482cb28443f4583273dc2ca89be3bfee6912952e84933040",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "dccc1202a9bfad5f5322a9d85efd1b4a4f8bf13b694e2350cdf1f4914234b37a"
+      "delta_sha256": "69e1724e2eddcadf082a4d4f40bf83599e891580aad6807d54d89783ba25e013"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1_key.dds.phyre",
       "original_sha256": "699cf784cdc0c97718c2d5abacdbdd21f3ea43fd5e82a83a1aa04d806f4a8bbe",
-      "translated_sha256": "158df84fb99f8fcf6aa9e92147850317a2550e85182019fc33a28b07466e4d8e",
+      "translated_sha256": "03c2886df1c509c40e4b15ec90124adce795038998d3afd9d308caaa1c09aa71",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "5edbe721b59163421319dfb0477cd5566f22a7a1cf1036a2a1671bd3941f8111"
+      "delta_sha256": "85ce29660bc9f6ba025724031f59572e70ee6b05f56cbf483b926a4ebafe41d0"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1_key_4k.dds.phyre",
       "original_sha256": "af1632b5c912bd3d6220071a5667c228b9b473edd5635e1c3f35051be56841cc",
-      "translated_sha256": "2aba21c3252a97ad7bab1a44ff17047563008531d4d8955f2ad4b8ee7e23e031",
+      "translated_sha256": "971ffd238c6f45272cde6212eece36e525ac4a72c0d607093eb92f0a5db46482",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "9498056347ad04b063d47c7e69ccf0812613c3d438f51009371838bc50c842b1"
+      "delta_sha256": "b67a5b87835d381bddd93fc04489e8f028e649807bad1d95bbb69431c2bb41ac"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1_ps.dds.phyre",
       "original_sha256": "42a7f09a0db7559a269022268e9ae6ebd594a5499c816b5076a055613238707e",
-      "translated_sha256": "ac22d55e86a0b8d82d26e84dc68835082c49b5870f2a2576f02e59057fe90ce8",
+      "translated_sha256": "b7ef5f09bb67ee99f9109c1ea88bdf1e58fb1cb9a20704a007cf14ff8df5fc77",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "be66ad99fbfefb328049e4331194c713e056931cd874350ff89464eb4de3b1e8"
+      "delta_sha256": "ccad4fd3574add21ee1ba04ea7c1902bba0f6a3aa2e230703835f47c39308a5d"
     },
     {
       "file": "texture_en/model/ui/tutorial_13_1_ps_4k.dds.phyre",
       "original_sha256": "c92df7dcf047612097adcd6aab6ca9e5ff3c5fa79a81a0a93c61711a9f826a35",
-      "translated_sha256": "d1b3cd15e10f96980f96dcbf79e7fea34fd6f44073b60ffec3ebac074c8047d8",
+      "translated_sha256": "0c411d2755b119ddc12da4a6a56cf667349d8737d3edd90b9616e2bdbb4b8daf",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_13_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "55d1efec656c12d348ebe71c2ae3705d5a6658dba30696a0603131af49c7827d"
+      "delta_sha256": "a475ffe224753662fa620c922d99364a216d347ca24006fefb92331b3ed70539"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1.dds.phyre",
       "original_sha256": "9bc01bb82f565706f5b84c55e6d94014c3774c9355137e173a82a62514b9ab57",
-      "translated_sha256": "6de572c917239e2d591f59faab9ce71912e2bb99ba8113b78c81180ab73b5966",
+      "translated_sha256": "46797397963c12e0e7c189f0b12a5e1f8bbad30b310f0220d4527d064cd98b56",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1.dds.phyre.xor.zlib",
-      "delta_sha256": "5df3d1b174bb703adcf91d7b15d545e82e82cb983c44fa65e651c9bbceb6b163"
+      "delta_sha256": "9b62dfbb4313c8f0d0619d42224406dd0870ec0a421f3dc3afbd55baa5f25726"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1_4k.dds.phyre",
       "original_sha256": "fc064efdedbab771b0b03bcc7cc1ca6b6a43c135ab6078ebcce2dfea08768a87",
-      "translated_sha256": "25c7649e812d4d73fe6e81c2ccf5e7c7126dbf003ab86bb4c1a4027a56902f15",
+      "translated_sha256": "19f02a49b443987381ff934235482fbb7444bcc5515f98c9191385fe34ac4cb6",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "ce68e13785a82a6141f903e54600e89bb72af6e2ce0737be9c11fbc840f027f3"
+      "delta_sha256": "1ddff1415a9e0e574636b708dab07ef0fa7b2f5aa7f8fc05e6caccfbc1c1a87a"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1_key.dds.phyre",
       "original_sha256": "b64d01298644d41ac0b700f5df363f9767e73005c9bbd93bdad02c57ce15766a",
-      "translated_sha256": "efc9e556362e62e10ab70987dda9c9c0cdaaa31c768c53fb26ff2a290bea244b",
+      "translated_sha256": "88f5068fb0178bc265e54632df25d35076077bc224526aebaa99df3dc2b2ebb4",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "1e4842b081fc41339d1a0c04f7e020a9c7ff64b4a5e8b4c37b4fc253e46ab27d"
+      "delta_sha256": "9dfe9ea4b96a7179801362cb6ddf38879e2bbe507fdc5d24fdfe2d810525f1aa"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1_key_4k.dds.phyre",
       "original_sha256": "487480b5e063526a8adcf14c7e96ea704ed2ad28de8ad253e2d777cb6f36ce66",
-      "translated_sha256": "2106e276a11fcadc4c0abb2e5452fa9b4c66e17ed355cea2fb965871a706b32b",
+      "translated_sha256": "2db3d9fe6d26f0f7e5679c6d7be010165c10d1fb8bc89a6e8ba2a3ff28a502db",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "f8b91eaca23e31aeaf1fe339195e88c06cfe534768e83ce8f15812306276133c"
+      "delta_sha256": "62963c09310a269bf7ea0f11f22992894dc7592b48c1ebb8e86195eaef0c3dd8"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1_ps.dds.phyre",
       "original_sha256": "ff7830c193fbe5094cfbc4dcec7c062c5ddcf1d07609953322e177092e45335c",
-      "translated_sha256": "518b3119f4664e27e0aece18f13836ae0964f050441721309de53787e7cc2c7e",
+      "translated_sha256": "04e37342dc2140aaa5a4a1090455ff67a843936157f57acb00678a64d04f8a37",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "8e949ad120b2f8eebfa7c024d5c5e8f27e0dbf372a5edc5dca86878654d69349"
+      "delta_sha256": "e1f0ebdbaa2abfbbbe0ce1057733bbe907ed688109d2cc1d4074010980bb2a59"
     },
     {
       "file": "texture_en/model/ui/tutorial_15_1_ps_4k.dds.phyre",
       "original_sha256": "e655734574f18a4c299fc45058d651ff7e91367615e35b3d8258ccb430403985",
-      "translated_sha256": "6a105cd1d405896b63298074d24d9d8e44e4eb069cbd385f44eb8f77d57d1189",
+      "translated_sha256": "0ec088eaed1b99afad98f6570a69274622a5dea2b2e1af765e2b50e9b74c54f4",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_15_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "8979438bdae2e5e8fc93c786a15ccf5685d59446a48b7bee1624c64827e8de8e"
+      "delta_sha256": "a86ba6c266299f191052d3159c2b59d2ee79be2b54e75ff9676e5ef3cf2b23e3"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1.dds.phyre",
       "original_sha256": "c3ed09d419da26a5f2009962a6aef378398c93c95027f83e532d72be87a953b6",
-      "translated_sha256": "7908ce2af37cb733aea1724830d91801909ca0f3dab45533e162e2dff4e52a4a",
+      "translated_sha256": "ff9bba877bf271f3dcbfc4107204cd5b7754678bcc839b6f5570715a51283f01",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1.dds.phyre.xor.zlib",
-      "delta_sha256": "50c0b16a1c65376671c8080b61139e72ebe6d086df21d37f85a2cc436e99b55a"
+      "delta_sha256": "a5005b1d9d94ea9e5c18266e511482b3682c2afba904a26158241955f879dbe7"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1_4k.dds.phyre",
       "original_sha256": "0056112817faf5348139fd2ba441c766b4764b6cb3581ab611d52d44fd4e045f",
-      "translated_sha256": "c694050baa17928e104834a88cb483fd89b7f16eac96afcdf1c15681bf0a1408",
+      "translated_sha256": "b54a95ccf37b6ee4b09839c007753be5330471fd71683c7eebfd72b844c6f9de",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "095e56d2699e774579f91e2a86e5858518520a8ec9b6cbfce15b35ef796563ec"
+      "delta_sha256": "628f409d8f5f52f0a38b4602b83b47a29d5aa2f5ffacd5dbe317108e4f4276c2"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1_key.dds.phyre",
       "original_sha256": "cc79800fadd7bfccc02d0ffba91cb902153507ab98eed5402bccfa5d36f0e4d8",
-      "translated_sha256": "9ca4ede1a4fd07f290c27065fd9dfd602cdd279ff32951f7e4e4d7aa88064b36",
+      "translated_sha256": "fa2d0c72696c2ab226c0b06338ee6cce1f4d3c22498514f3a8b23589bae24062",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "db0f1e4a457897c62f3fe88e6f1984479b145e51917e1beb4fd111951a4de139"
+      "delta_sha256": "66f8efee19110fca636048ccc1b5228062ae4dcd1e6e052eb18266989b7e7868"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1_key_4k.dds.phyre",
       "original_sha256": "0b02ad4958a91c46f5fee912be39f45ae93128d11f80046de54b3aede4a21415",
-      "translated_sha256": "10ce6035fc9a0852c84cdead92f39a205d83a25a0a39780c3acb6967e221640a",
+      "translated_sha256": "dee70e70383a7ced15f77911df32b40f39b241575b4d564fe4999d54934ab769",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "095e56d2699e774579f91e2a86e5858518520a8ec9b6cbfce15b35ef796563ec"
+      "delta_sha256": "adb4751a312c1b48a8e2169117f834d0525b0f856266410ac2e3ef7b51db1514"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1_ps.dds.phyre",
       "original_sha256": "b40bda5de45e0685460145a7a8aa274c2d9e01329ace2ee515ff2499e1f796ce",
-      "translated_sha256": "a8342ad55977adad181e3b588b45e7b9fb452a6ee99d84ee95247a3222f925ce",
+      "translated_sha256": "bd52d9f8e1268fcfe2b77c5f58af18e725bf019a56ad5094abdcaf1ecbb8ab27",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "fe235203e1936d6c83cad10f6ac8e3dcee092d2f56eac10509e59126053e6e7d"
+      "delta_sha256": "8999c8a56d9d6d410816a72adcab95d17622a072f2a2affbd853e2a0b949efa2"
     },
     {
       "file": "texture_en/model/ui/tutorial_16_1_ps_4k.dds.phyre",
       "original_sha256": "d56b9d484d06f4c322713e005aa1c80ae2b8690eab340a04c24ec3edd4256ac0",
-      "translated_sha256": "12a36c1450c2a107729ceb0155c713f3ecf59af8bb6c4d53c1be4c1a36bd76c8",
+      "translated_sha256": "75ac455c2ad79173906ae6396458f28f98cc5de550910868e2c88429c047c950",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_16_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "57b67e8503eab6d178d738bcc8ec21b3e11df6f081e5655db040e8934bb103f5"
+      "delta_sha256": "4d49d235f125f2a3191e98e0fce3e03b77938b4351c2d5be6cd03f3e5493ae2c"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_1.dds.phyre",
@@ -11804,62 +11804,62 @@
     {
       "file": "texture_en/model/ui/tutorial_17_2.dds.phyre",
       "original_sha256": "914e589e9a00663ab6d0e4a8efb91c1f54e9dfbf0ad28a843cc2f7e63ed1c79d",
-      "translated_sha256": "41942d9ed022a7ed2fc71087150f32755b3d4f4f96a68ade8fd9c47f4e2be338",
+      "translated_sha256": "ca82efb09fadb004dd9cef17baff584fe519b973a42b0ab6ceac5542528156e5",
       "original_size": 1039342,
       "translated_size": 1039342,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2.dds.phyre.xor.zlib",
-      "delta_sha256": "047c7c883a7bd1c3c12739c88d6a131eb1a70bd2c89aa922d7e1d7cc2ab29792"
+      "delta_sha256": "15ed07a9b7fd045cedc0de8073d67a8d4fef7f9cf1a915309764b47d40fdbd4b"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_2_4k.dds.phyre",
       "original_sha256": "aefc222217b6e917d52e5bf6fe4c8a6ec140420b1a9d70db89649d958a2329af",
-      "translated_sha256": "34cd2fa57924af60c8fde6a51aa1ce9654f81008535fbe7d6ac6fdfd407a9a7b",
+      "translated_sha256": "bb4369de703b712e32a553aaa551468efaa9bfcf171ec553678282c1db07dfcc",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "f08f0c8f2d8e26266fccd7815b07332fddb3c9ee19c2537048a2b7a6a081a0d7"
+      "delta_sha256": "3486ef2802870f81cc97c63a2bbc57a97a9b79f7e41d2a045bdabaeeb4a02dbf"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_2_key.dds.phyre",
       "original_sha256": "8a21b159f5ca937b2f1c86b3520b5e72515aae4d961a62971bd482ea3c9903fd",
-      "translated_sha256": "7666a6da7fb33636cbd0784f24e3668eea182bd989617f39747ea6c3bcfcc9c5",
+      "translated_sha256": "1851b7805f3608c514c15694871540a60dda128289edb455040c272a7621a545",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2_key.dds.phyre.xor.zlib",
-      "delta_sha256": "1f49b39646613049ccd84d8b9d64dcc2ab6dccb0667900dc52afa25717e50cc4"
+      "delta_sha256": "a9474350de1b4cff9a17022e99235f1b94cba395d65497d5c4996a2bdb4f90c6"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_2_key_4k.dds.phyre",
       "original_sha256": "6f77f80c6cbf985f18b34e435601ec94e6c22d86764d7d55897979db812317aa",
-      "translated_sha256": "2b8feca975b271fa1c28c61884a34975dd273b52de99eb3a4519a870471f4566",
+      "translated_sha256": "e48b2fd94d622dc068fd6d5056e2ba43d001bad755b41fe053ca43bfb1560c79",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "f08f0c8f2d8e26266fccd7815b07332fddb3c9ee19c2537048a2b7a6a081a0d7"
+      "delta_sha256": "3486ef2802870f81cc97c63a2bbc57a97a9b79f7e41d2a045bdabaeeb4a02dbf"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_2_ps.dds.phyre",
       "original_sha256": "863f8bbd899e66724ebb4e9e06faf1cca8eb0805e5b33d7fdd4e7e0bd75f2a36",
-      "translated_sha256": "ba91bd89ac938012f00d78081995ac9d62b4095722d5cf706587619ad1a11eb0",
+      "translated_sha256": "71b1eeaaabe249f18822ebbac0b726632d4a99d92e3e90df430b38a1696efefb",
       "original_size": 1039350,
       "translated_size": 1039350,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "5215c21fd0c69d9f253f641101b419f30b4a484a10d1c4f72712c850f8f9bd34"
+      "delta_sha256": "74a4d57ad4076c3bb17c7177a0c57c458fab967cf734e70d4503788619d8a5b2"
     },
     {
       "file": "texture_en/model/ui/tutorial_17_2_ps_4k.dds.phyre",
       "original_sha256": "c169ca29359bbfc5b8a30887c74dcedd203038ebe22a5a3bcf3c2a5db5b1dd8f",
-      "translated_sha256": "ccaf7ee68409cd7e22933419deb3d7decaffdfa295ba07c1a9918c9561c931f7",
+      "translated_sha256": "c1fa4671f872863495fe8106e9cd1d6c91a3b642b202ae56381b261fc2be5be0",
       "original_size": 4149750,
       "translated_size": 4149750,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_17_2_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "53e684aa578bac06ce8657d2b431200797edc8e99fa62526c0d0bde1413b52bc"
+      "delta_sha256": "6f446937bd81d6675e3eb864e6b388749668116488514396fee8500abd38fc8c"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_01_1.dds.phyre",
@@ -12224,122 +12224,122 @@
     {
       "file": "texture_en/model/ui/tutorial_b_03_3.dds.phyre",
       "original_sha256": "81f81a8efa206024c088df795d70c4bb7ab88cfb2f300d4d170377d7d7c85318",
-      "translated_sha256": "b574dd3c0876c27798fc6aaaf71996e60144727c62a9ce1f034536b1d6496ae5",
+      "translated_sha256": "1ccc32f19c208f2bf5c3302ac84733429321d8c18bf5ca00390140087f773335",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3.dds.phyre.xor.zlib",
-      "delta_sha256": "bfee2eedba88839ea13f371de650810e069e5af6920f816d3153e52511f124cc"
+      "delta_sha256": "07d26d98d41f9d092f5c76da1a37bfcdec8574e0052ac3ff9ff0f27b936b23ce"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_03_3_4k.dds.phyre",
       "original_sha256": "148dbf14176da16e73e2d0c3465ab7c6d22d674297ca85df195f885c91b751dc",
-      "translated_sha256": "7655100fcaba39c9a0b0677e305928a54b9d5e463dd75106aff6ac760f86c4e7",
+      "translated_sha256": "f8bbf74a74506248f253f251df9410d0df935b90319c20431a4250aaf7c30e4c",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "2ca983d26a1c5a276964d49a00ee2842047a1d27c299a82a4da3d1221016b189"
+      "delta_sha256": "e6040556531c5ff8279e543bbd797ea4c439f3955bdddf040ff56b35fef61f71"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_03_3_key.dds.phyre",
       "original_sha256": "8e44e73b106d2d30e38ab6c7975a24ac5641b97bf1c0146a11e68f29b32191fc",
-      "translated_sha256": "b8df72cd2da356cd19f2bfd464f73c9bae5c7dc1d989f6b68f2538507544b7be",
+      "translated_sha256": "8ecfafb7c3eb9f09e941346cf4697e5d77e2ee846bc8f5922125f31142ac5792",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3_key.dds.phyre.xor.zlib",
-      "delta_sha256": "8dbe82027a84e10a1d5199c4ef0f05df11bb01d383e0cbefd572e4065cb874ff"
+      "delta_sha256": "ae46330f9570608ebf27a3c473504207bb62a4ce086e5c8686d007e7abe4b4c9"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_03_3_key_4k.dds.phyre",
       "original_sha256": "1b90c7a0aa85218bb98f0c53edae5f74e3ebbf645a8ae34b493fd4b4afc2e06c",
-      "translated_sha256": "f2448b1af1461a59c153ff1b90f2d2e39dc74e29c6217fda4a858618df289534",
+      "translated_sha256": "52ed3892b30d8dc13af8c157085c594f89426446a361bafa17461b460103a91d",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "aef1e5440a553f7401a35c00b700158ade7998316a5bbd93e97b696cc55b0749"
+      "delta_sha256": "4b968ce6a203b95bb77c66264f67e1c4a5c012f710962915b236c847bb428bde"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_03_3_ps.dds.phyre",
       "original_sha256": "c7ceae3e540fe8e1478845dbf15edc1e5fd444f371106da93d35acf54e33d7e1",
-      "translated_sha256": "6ebb84a5887af1f7df6eff0cb317411809950726a74e74827f60606c2cc3a62c",
+      "translated_sha256": "e1cdf9b61d6ef1686933d26eca7f5ae6bf8381fbd97e84b8d04c402b6386b24d",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "1584577c21ceedc716505d27c3d3e48762b646091b83355aa2ad38dd582eb0cc"
+      "delta_sha256": "9d203bda76000d81a2744fbbb6d2ca2efa367c0e53d0e490386caf2964398cc5"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_03_3_ps_4k.dds.phyre",
       "original_sha256": "732ba517aa4886dd1041b4de41df3a5041245e1d1a243ce8a72788743699b4eb",
-      "translated_sha256": "2462e734aed4d9b84e869815240adbcf83c84ad6b7356d96f46d8be261924af6",
+      "translated_sha256": "e761dd4a0690b51a5c57d256bedb32310d308fadcb1fd5a290f7ce6bfe1e16a5",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_03_3_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "35ddb7965aa6e029dff5c0c2d7b52ac4ec001516748607f9acbaf21e927cea9a"
+      "delta_sha256": "85bf5544cc9872c1e5c0196a93353ab12a4ff82366bd3065b608a7a400d2e0bc"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1.dds.phyre",
       "original_sha256": "0b37ce80313a7ae76dc014a24ed120d67e20d5799da49616bd0e35d39284636d",
-      "translated_sha256": "a28d7e3022d64cf7e4ac592205b872e77b176244303c88af11f2d5bd1665f30b",
+      "translated_sha256": "b4167539ebdfff3d3cf30d22828d3787bfeaa0e44fa273ebca0ae7eb5adf702c",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1.dds.phyre.xor.zlib",
-      "delta_sha256": "6e3bfefab428736a6c7f5ecdef0f0e3c939bd24ced13f31bcfc2da0e72e70463"
+      "delta_sha256": "90b101df81b52e8d5469b25103d167e4fe8b6d739f0d390feaa995dedbe2033f"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1_4k.dds.phyre",
       "original_sha256": "240fa6323b78d16397aa3735c25f9c63f307ee00e187771a30467ea043baebf6",
-      "translated_sha256": "977c4f4a1ca89d0fae67806ed69242caab8559fd1de42781e65a7df23f6933fe",
+      "translated_sha256": "41c9388b6c368918d277b4ef227f4018bb3bb03377ba116e4d1b71e35692a851",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "878ec8f7d6ec1c7a84c3b132e019b5d96d360856e3aa58de668f2adb457a28ee"
+      "delta_sha256": "9a9b98494bf75ab1f44e73eeee62ab4ac26567b719e5188cbf44e2f1206dec22"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1_key.dds.phyre",
       "original_sha256": "609e6923ccb2202d974bf26f2d957050a5da68d1caef6b0e52e73470d2f72f11",
-      "translated_sha256": "bedaf9d5e3dd66d346eb39cf2f7930de58ac3c962dd9737c51feeb382da7e57d",
+      "translated_sha256": "8d22d10edcc21fb5372cc676cbc9ef2534335c33854954e5a33e580bf79ffc0d",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1_key.dds.phyre.xor.zlib",
-      "delta_sha256": "6e3bfefab428736a6c7f5ecdef0f0e3c939bd24ced13f31bcfc2da0e72e70463"
+      "delta_sha256": "90b101df81b52e8d5469b25103d167e4fe8b6d739f0d390feaa995dedbe2033f"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1_key_4k.dds.phyre",
       "original_sha256": "75d2b1ca51deceae39543455d1bad1d84aacc3f480c4c7b5f3efe9e7a9b5a350",
-      "translated_sha256": "f46eedac50b18ccdcaa82fbe395c419c473f026074490c8838379aaa9ca8ad3c",
+      "translated_sha256": "6b4a5356fbbd69a43362c6dd474fb104dd8cc330fd152b08d536537fc5b92ff8",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1_key_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "878ec8f7d6ec1c7a84c3b132e019b5d96d360856e3aa58de668f2adb457a28ee"
+      "delta_sha256": "9a9b98494bf75ab1f44e73eeee62ab4ac26567b719e5188cbf44e2f1206dec22"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1_ps.dds.phyre",
       "original_sha256": "8cc7fb7c6ccfedc247a6eb0bb93e8c43f46f186f0798957dcb211a1787a68643",
-      "translated_sha256": "13dba8c5d7659deaa85422a9f995aec97451bd10973af1e2361c43af56b5f9b3",
+      "translated_sha256": "ee947a8026593279e0aeb6ba41be7c40025c4bed0c671a6d05a7dce3f5f19276",
       "original_size": 567798,
       "translated_size": 567798,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1_ps.dds.phyre.xor.zlib",
-      "delta_sha256": "2b095d5add62f3f85210b30e2fc7e6e53ea12e4ac299a33317f5e6b35d58b15f"
+      "delta_sha256": "bd68c800cf5e5047309c9ad9953b6027a21055675a700f25c45f6081d7621418"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_04_1_ps_4k.dds.phyre",
       "original_sha256": "d831ee5c245f3564d84fdc18f74ab47af8da3d12e7cc09b4d5b9624f2ac730b3",
-      "translated_sha256": "0efbc9643074c5b9696d1081db0d015b306eb2d40047b89cd447e631a0b3f830",
+      "translated_sha256": "e02ad63b15cc58e9a78cb11949ee964f706156a396245b8abff675261132fb7b",
       "original_size": 2263542,
       "translated_size": 2263542,
       "added_metadata": false,
       "delta": "texture_en/model/ui/tutorial_b_04_1_ps_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "0be4351f6ff83b9c5c0bea6288744e2abb01677b58eb2df0418b062e65d079b1"
+      "delta_sha256": "910cab1de4fb0ef561e78ce1338b9dc940a08aae43e9b1fd7a288958b7437cbf"
     },
     {
       "file": "texture_en/model/ui/tutorial_b_05_1.dds.phyre",
