@@ -1,24 +1,16 @@
-Labyrinth of Refrain — русский перевод
+Labyrinth of Refrain: Coven of Dusk — русский перевод
 
-Windows: пакет ресурсов в dinput8.dll. Switch: заготовка, порт не реализован.
-Для сборки нужны Python 3.10+, Rust и MSVC.
+Windows. Для сборки: Python 3.10+, Rust, MSVC и файлы игры.
 
 git lfs pull
-rustup target add i686-pc-windows-msvc
 python -m pip install .
+rustup target add i686-pc-windows-msvc
 ./platforms/windows/build.ps1 -Media "D:\Games\Refrain\Media\D3D11\Majo"
 ./platforms/windows/install.ps1 -Game "D:\Games\Refrain"
 
-Перед установкой закройте игру. Установщик сохраняет резервную копию.
-Перевод — translations/ru.json, субтитры — translations/subtitles.toml.
-После правок запустите сборку снова. Результат — dist/.
+Сборка: dist/. Перед установкой закройте игру.
+Switch: только заготовка порта.
 
-Инструменты можно запускать отдельно:
-python tools/patches.py apply --original "D:\Games\Refrain\Media\D3D11\Majo" --patch patches/windows --output build/refrain-ru --replace
-python tools/translate.py
-
-PNG для просмотра — assets/images (Git LFS); сборка использует patches/windows.
-Словари перевода — translations/glossary.
-
-Код и инструменты — MIT (LICENSE). Лицензия не распространяется на материалы игры,
-тексты перевода и графические ресурсы. Шрифты — SIL OFL 1.1; лицензии рядом с файлами.
+Код и инструменты: MIT, см. LICENSE.
+Материалы игры, перевод и графика не входят в MIT.
+Шрифты: SIL OFL 1.1, лицензии в папках шрифтов.
