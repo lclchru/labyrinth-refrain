@@ -9254,22 +9254,22 @@
     {
       "file": "texture_en/model/ui/Base_Menu_shopwindowparts.dds.phyre",
       "original_sha256": "b069e21135cbfc770cf6294b7cffcedb7f80aaa6150a6ed94640bf005af973a3",
-      "translated_sha256": "4e83fb2634e78edf13d07f01cbd186e3e2eda425fb3deeef8f5741928430e93a",
+      "translated_sha256": "97de64126d9c0471b779323b3c104b2918fb90ce05d433d54ab48ac070eb4236",
       "original_size": 412158,
       "translated_size": 412158,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_shopwindowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "26b1fbf369e218d6522d41c233aa59d57641bbb01501b988a39a63f5e3c00a70"
+      "delta_sha256": "bdc57b6fbdd0d6e5ee0b6f0736d295710faca88244556bfc5aa295b7a4d9df05"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_shopwindowparts_4k.dds.phyre",
       "original_sha256": "44ecd94abcf761a94f9f44571c81659dd3e6302e54d595d9d58e72a0de354454",
-      "translated_sha256": "45d9b8f9f8274cd79422200ee1a891281115aa857dee9392f44a03a9fc722fd3",
+      "translated_sha256": "00716ed486a36beb81461703efca8165e95f5fe1500d65a7a8d183cf7686be91",
       "original_size": 1640958,
       "translated_size": 1640958,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_shopwindowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "a4dada74123d2cb0cd5691e8dc52231ab7c61337fe25b71b6a254a3eb9867279"
+      "delta_sha256": "356ad8b2848bc867095a9716446058f5daf31955084cf906e28c7a4c220b4db2"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_Sortie_windowparts.dds.phyre",
@@ -9634,22 +9634,22 @@
     {
       "file": "texture_en/model/ui/Camp_Alchemy_windowparts.dds.phyre",
       "original_sha256": "18e0d76bf867fc3d74ceea56c9fac445381a40772023ec41452d982e53bd38f7",
-      "translated_sha256": "4ecf076859d311f0945b938f3f46c0e3e1816f8624bd22027d7500347bc2ddae",
+      "translated_sha256": "feb4b2ac4abf5055bc3453d747309016e195a4611cc55acec488266bc9b7b5c4",
       "original_size": 4196862,
       "translated_size": 4196862,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Alchemy_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "38b923f959c19adb9d07db9cdcd00b7f1400127839dfdfdd87579ae73576c619"
+      "delta_sha256": "4851ed406308b36035fc8004ebd2afbe8e3e350272e9b24e28bbb96d855bbc84"
     },
     {
       "file": "texture_en/model/ui/Camp_Alchemy_windowparts_4k.dds.phyre",
       "original_sha256": "12786876e28bff266ca97824618b0d14dcc4310c18709a317f00eb312641a93d",
-      "translated_sha256": "e5be6ba97ed3023f3d3476cd8058d1eab06bd1925dfad08643bec2d510d72192",
+      "translated_sha256": "20c2df254dd011b2f22f5e936e06fba7d3ecf7f15aad6d6a98477a89c1775650",
       "original_size": 16779774,
       "translated_size": 16779774,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Alchemy_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "0ca51d11eb7e8a1c6839c85e0345a604d5dfe8c8156f34f2b65b729a4ce8943a"
+      "delta_sha256": "0f9a4ee5c1a1ea796a352d050fe1590fb44415153ee4c833c8ad124435c7c747"
     },
     {
       "file": "texture_en/model/ui/Camp_Charatatus_windowparts.dds.phyre",
