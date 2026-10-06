@@ -9234,22 +9234,22 @@
     {
       "file": "texture_en/model/ui/Base_Menu_petitionwindowparts.dds.phyre",
       "original_sha256": "1b33d072cf5a401dfab56259470d769c295129fda02c5109aee917f8782f1c73",
-      "translated_sha256": "76e2c889a363981c64fb460e3213d3308b86133a18366ce245e39d5947279ed3",
+      "translated_sha256": "6503ef12448691eae1f7bcc40a8879d3ec8a3f9c4400aeab224b99e9df47b66d",
       "original_size": 755198,
       "translated_size": 755198,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_petitionwindowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "6bc2a40ba00c648e2570b222c557b6989313dfad1e750c7dfd1667d6a648e9df"
+      "delta_sha256": "cc4be050d5f8bbdc7dab665499a4f9f82fccbb7cf9f7d3f2aaeaa09c04a67b84"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_petitionwindowparts_4k.dds.phyre",
       "original_sha256": "920fd4e71ba4b3b183a0ce71e322314b63ff62f4b6de9350382265750d17f066",
-      "translated_sha256": "f7dbafb331c86411e52c543126af61db48da3464c33251552caed2c6c1667064",
+      "translated_sha256": "8c3c77ef4be4db0238c53b8c9ab7e9cd1f6d3b629f99944f1bf92a395bfc590c",
       "original_size": 3013126,
       "translated_size": 3013126,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_petitionwindowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "77e713f5df0a44dabe8f1aa53d5099b2701c256b0e53e0298271481cffba628c"
+      "delta_sha256": "706a11fbabba49946be24664ea750e99d61a76ee7b7b09d7ec5fbb86b149d908"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_shopwindowparts.dds.phyre",
