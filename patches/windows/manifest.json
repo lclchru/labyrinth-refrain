@@ -9274,22 +9274,22 @@
     {
       "file": "texture_en/model/ui/Base_Menu_Sortie_windowparts.dds.phyre",
       "original_sha256": "5baba90e13ea59a8071fe09b2184f0ef4d67af88083bb168f3af1e645c6ed16d",
-      "translated_sha256": "d8e40e32f56bd2536c87259ce3c9e18410c510014c68c8ae412ea835302ad443",
+      "translated_sha256": "e324a47bc623976f20469c3f10a7fbc9370bdf2c28276e922d242c2493db3719",
       "original_size": 1575422,
       "translated_size": 1575422,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_Sortie_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "c89805bb72689b2263d53939e3b1e9748e2cc030f728140291e5e9f59542d787"
+      "delta_sha256": "00c15caa6eed00dff20aa0e28b50c9d5b068f4a5617e7abd47e824a1e99f7102"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_Sortie_windowparts_4k.dds.phyre",
       "original_sha256": "08d48fb2d0df0769a12467863e9fbd343049a4faf237de6b66944ea8824be695",
-      "translated_sha256": "96d409a796df57ec1b9641561a60d57cb20f7cd74e80ae1f8c2cb4406cd2ea67",
+      "translated_sha256": "6301647c17a48f4694f1cfae2fd1eeb20560dfa69b361cfb34ea28ff6109a8ac",
       "original_size": 6294022,
       "translated_size": 6294022,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Base_Menu_Sortie_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "36935affac7acfd9e4024045212b97aedaa3c8c1afaf82dac0c42eef11e7f456"
+      "delta_sha256": "aa4630d5b04cfe7ba2c31bd82084da5472e8c03855b27c7a08bfa014df40795f"
     },
     {
       "file": "texture_en/model/ui/Base_Menu_windowparts.dds.phyre",
@@ -9734,22 +9734,22 @@
     {
       "file": "texture_en/model/ui/Camp_Map_windowparts.dds.phyre",
       "original_sha256": "aa759996acaeefc0b1286041b29e1420f9a59d0a579de4c48004799249b1090a",
-      "translated_sha256": "85c6a4d4d738dffb52b79696651369dfaa0c003a369bcc5ce99f52c5ba018852",
+      "translated_sha256": "78431b090fae496f4678d0a80b011df4651424e8081d43aadeb75c7e9d3161bc",
       "original_size": 2021878,
       "translated_size": 2021878,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Map_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "c46e5ea5e5b2a98075a6add21877e91d4a8dc1dc3048e9ba161f24d7ecd6fda8"
+      "delta_sha256": "2c3ddd63d89043f5a0a320efa4d178ec7aae3e7b016752191ab5f4f1be15f8dc"
     },
     {
       "file": "texture_en/model/ui/Camp_Map_windowparts_4k.dds.phyre",
       "original_sha256": "e65689275c76b6d74cb158e08fa8e531d1b995cd79e0827cf35fcb122a4812d2",
-      "translated_sha256": "36da06f6a3656b316e049b3bb467a72e98851674b5bec04fe910f925f90a62dd",
+      "translated_sha256": "9c274eef3a0cfabeaf04ffb366786471042d8d8921f99b8abf75b40b604731ab",
       "original_size": 8079870,
       "translated_size": 8079870,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Map_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "4950744545c7c9990960af0d4d80f1f6ed3f51b80cd024de6aa77c68dfbc557f"
+      "delta_sha256": "36107e2d8cbd9aad67ab6db7e55e93e11b9f7adf21926147b4bac5d679d64c72"
     },
     {
       "file": "texture_en/model/ui/Camp_Menu_windowparts.dds.phyre",
@@ -9794,22 +9794,22 @@
     {
       "file": "texture_en/model/ui/Camp_Party_windowparts.dds.phyre",
       "original_sha256": "4a7946b9059ad318be7800656ce1e0192362b38570ca85f526f89002e717d87b",
-      "translated_sha256": "ea29c95b08c19b083acf0fd0ed2eb0de23df74ebbd9ed24379fa2cc4f43db0f3",
+      "translated_sha256": "12691ae7f59726a4d19631f1e67a418a21d1f2dc80f5ef75ab03e0566832e564",
       "original_size": 2017782,
       "translated_size": 2017782,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Party_windowparts.dds.phyre.xor.zlib",
-      "delta_sha256": "e6fadc12f40db87b95c81f4e2ac42f684ddc82d3ab390a78bb7ae90e6fc93cdf"
+      "delta_sha256": "31477b61335411a03d27a5053cf37e055c773319cbc397c62e0e935439306305"
     },
     {
       "file": "texture_en/model/ui/Camp_Party_windowparts_4k.dds.phyre",
       "original_sha256": "c644cb5f9b85c911f38faf2d24b02cd27c9649dbb60e0ec5a0ef5e7b0791117d",
-      "translated_sha256": "6357dd4870f5de21daad406aa98d4cb2cb12c6248ce7e9e16b19721b91aba8b4",
+      "translated_sha256": "4b7a9a094c02010cc1ad0b17e6eb74379b9bbcca2f05229de029efb7447840c9",
       "original_size": 8063486,
       "translated_size": 8063486,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Party_windowparts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "0854be8651838c97fb604bcad15e9eae7f080f9dc53fd1e3ecea7f9535c4103e"
+      "delta_sha256": "d87bf03fb56913a740040204c704f80a1435b2dbae757d3c80517b15590a7b68"
     },
     {
       "file": "texture_en/model/ui/Camp_Playerstatus_windowparts.dds.phyre",
