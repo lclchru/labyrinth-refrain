@@ -9474,22 +9474,22 @@
     {
       "file": "texture_en/model/ui/Battle_Result_anim.dds.phyre",
       "original_sha256": "c42caa39ba0f313db2be8051f922bb51a8f672d3b38a71ea0951545a8ca4e6cf",
-      "translated_sha256": "f061aef51bd23ec3c7d0d1274d6029cbc2fb509134190aec48980573e097d2c3",
+      "translated_sha256": "fe0b48560854471fc3b4914359e2dd24a9f64a95810b3e38217fc0a9f1675887",
       "original_size": 1051126,
       "translated_size": 1051126,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Battle_Result_anim.dds.phyre.xor.zlib",
-      "delta_sha256": "71523619c5b38a75cf188f7ef5b73c21af1e664990786ce5d624604f06ee6196"
+      "delta_sha256": "0762db76e63d079768fd185864b78b049dc7186d79e89f6b20d60342587db8d5"
     },
     {
       "file": "texture_en/model/ui/Battle_Result_anim_4k.dds.phyre",
       "original_sha256": "c92012e9e6bd944f169dd820e60af5fabbfb17ac91b321fd3bbf3efb7a2de7fc",
-      "translated_sha256": "133baab0984a1c837c94bed6415ef1c27c20083f12572c827234407ec0380659",
+      "translated_sha256": "41be8f10764caf2d4749d934c8329bc88185c95d20fbcb99ea96fc35aeb35e89",
       "original_size": 4196854,
       "translated_size": 4196854,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Battle_Result_anim_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "274421e7cc5f69ba4449a7af6c9366689408c9026ccb96b4c2a038f2ec7b786f"
+      "delta_sha256": "bc58079e6773b1a313d2fa14b0783a66263f8d30cf25e1f13b8eac1551e4defe"
     },
     {
       "file": "texture_en/model/ui/Battle_Result_getexpwindow.dds.phyre",
@@ -9614,22 +9614,22 @@
     {
       "file": "texture_en/model/ui/Camp_Alchemy_Anim.dds.phyre",
       "original_sha256": "43765e6b6b4769ce380dc3a379834c513621bdf9b8913bc6a26bd1f5edb4cb90",
-      "translated_sha256": "b5882d4aa0f191ea9751edb8aec6a632ed7967d1ca244c3fa46bf51556b4100a",
+      "translated_sha256": "9960f2e1e50a09c0977179c08515b236ca2154f0fc25b51c01dc12c891babb6b",
       "original_size": 4196854,
       "translated_size": 4196854,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Alchemy_Anim.dds.phyre.xor.zlib",
-      "delta_sha256": "c251e969d4074bd850a2e23b0caabf6b3c47ffd49e94ff89f344ff4bd891e268"
+      "delta_sha256": "6b4cd8ba14aa1caac0abdf458126c44b63b9c1046e6003d07197b005434dd475"
     },
     {
       "file": "texture_en/model/ui/Camp_Alchemy_Anim_4k.dds.phyre",
       "original_sha256": "7872292f0ac7aaa9b9a0a7e09238300eb6a4aec6c0a32d25acebf4fbf89becec",
-      "translated_sha256": "4a43111d4d8e05f10e3581e574ec7fadf899a630bcc27646be9ef37af85d56a7",
+      "translated_sha256": "dbb99073feac183df553654f678ea2ce8eb919197a5c28e9c7f0c13f92cb4c6a",
       "original_size": 16779766,
       "translated_size": 16779766,
       "added_metadata": false,
       "delta": "texture_en/model/ui/Camp_Alchemy_Anim_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "cf229c051afddd848a8f312a72d3d4952fb5b0a2206992ff862f71b97891b539"
+      "delta_sha256": "07d4f822aa50485d2378451249fcb47415356253d1473f7bcec022b4dc3612ac"
     },
     {
       "file": "texture_en/model/ui/Camp_Alchemy_windowparts.dds.phyre",
@@ -10024,22 +10024,22 @@
     {
       "file": "texture_en/model/ui/dugeon_result_parts.dds.phyre",
       "original_sha256": "b0c3e27046e74384309aebf558c9be152f825fd9e3c311ca56d67f59a0c38cc8",
-      "translated_sha256": "6eae85b54b01a0f51ea013204619637e2c8caef1a78414c305f630549be6706c",
+      "translated_sha256": "05eee14ea9b84e7562b53f800fb07331b9a64bf2e096db7826d60ddf499186ea",
       "original_size": 1968630,
       "translated_size": 1968630,
       "added_metadata": false,
       "delta": "texture_en/model/ui/dugeon_result_parts.dds.phyre.xor.zlib",
-      "delta_sha256": "fd06e74aea024e85b66ab82ccb5cbe4f5478b5526f4ba0cdafc016b6e1adee20"
+      "delta_sha256": "9c7431690a81eec29af4c5c312c2cd9835a43f61e91da17ab6b8c91c5b812556"
     },
     {
       "file": "texture_en/model/ui/dugeon_result_parts_4k.dds.phyre",
       "original_sha256": "120f04ea8eb1eb20efb5a64382539b441e17efc68037ad5abda990144c0589c4",
-      "translated_sha256": "0ecbb722a5a7d8f8e3236d8c8ab31322b0696ee6279ee457867dd52963e4cd8e",
+      "translated_sha256": "3145c02eb1f487372aaf01cf3911f49a23945398ae536cbde9c165fd5edc7047",
       "original_size": 7866870,
       "translated_size": 7866870,
       "added_metadata": false,
       "delta": "texture_en/model/ui/dugeon_result_parts_4k.dds.phyre.xor.zlib",
-      "delta_sha256": "0f29027ca7e0e1718ff89fcd4195f2381bfdbfbee8bc17fa840949fcd771790e"
+      "delta_sha256": "69748402fa830dc7d003e8f93fc64c01177b0754f10711a362984d695c29705b"
     },
     {
       "file": "texture_en/model/ui/Equip_window_windowpars.dds.phyre",
